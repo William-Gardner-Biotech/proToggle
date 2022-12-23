@@ -25,6 +25,25 @@ Gene_name(col1), feature_type(col2), SGD_Gene_ID(col4), reference(col5), mutant_
 	allowing us to skip step 4 and complete it in one line. OFS means Output Field Seperator which we set to '\t' using the -F command
 	then setting it equivalent to the -F (Field Seperator).
 
+6. Python program needed for the next step. The procedure_yeast.py file works with the conditional dataset created in step 5. It filters all 4000 entries for what we are 
+interested in.
+
+	-After analyzing the conditional dataset I arrived upon a few temperature sensitive annotations. The first portion of the procedure requires checking the allele column
+	of the conditional dataset. If the following: ["ts allele", "temperature sensitive", "temperature-sensitive", "temperature-inducible degron", "-ts"] are in the allele 
+	column then that row is added to our new dataset.
+
+	-Taking a list of all the saved temperature sensitive rows we then output the important features: "Entry_id,Gene_name,SGD_gene_ID,Pubmed_ID,SGD_Reference,
+	Allele,Description" and created a .tab file for easy access on a spreadsheet viewer. 
+
+	-We then created objects containing all the information from the rows. They are created with the yeast_mutant(object) class. This allows us to now manipulate these
+	entried easier for data storage. I created the json_object_list_handler.py program to handle exporting a large list of objects and giving us the ability to then import
+	the objects again without having to run the program again. We can now use the subsequent_use() function to open the json file and retrieve all of our mutant objects.
+	This may have been extra work but I wanted to get experience working with json files because I see them everywhere in Bioinformatics. The json module does not allow a
+	user to encode a complex object so I found jsonpickle() module which worked wonders! Json files are also typically for one object but the json list program allows 
+	my objects to all be held together to keep the data all in one place. 
+
+7. Manual data entry. Using out TS_alleles.tab file generated in step 6 we must now reference all the publications to find the molecular mutation and add them to our dataset. This will hopefully be the last step before larger bioinformatics manipulation is used. 
+
 #### Files #####
 
 -full_phenodata.tab : Contains the contents of the yeast mine phenotype data along with newly added column names
@@ -34,3 +53,6 @@ Gene_name(col1), feature_type(col2), SGD_Gene_ID(col4), reference(col5), mutant_
 -heat_sens_cond.txt : downloaded Gene-Ontology netword of genes with "heat_sensitivity"
 
 -conditional_phenodata.tab : All mutants that result in conditional mutations. Currently over 4000 as per wc -l
+
+-250_alleles contains a list of experimentally derived ts alleles from this paper : Ben-Aroya S, Coombes C, Kwok T, O'Donnell KA, Boeke JD, Hieter P. Toward a comprehensive temperature-sensitive mutant repository of the essential genes of Saccharomyces cerevisiae. Mol Cell. 2008 Apr 25;30(2):248-58. doi: 10.1016/j.molcel.2008.02.021. PMID: 18439903; PMCID: PMC4130347.
+
