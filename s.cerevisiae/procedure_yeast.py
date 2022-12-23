@@ -42,6 +42,7 @@ def first_use():
 
     # Use a dictionary
     object_list = []
+    easy_fstring = f"entry_id\tGene_name\tSGD_gene_ID\tReference\tallele\tdescription\n"
     for entry in allels:
         entry_splits = entry.split("\t")
         entry_id = "Yeast_"+entry_splits[0]+"_"+entry_splits[5]
@@ -56,7 +57,10 @@ def first_use():
         curr_mutant.description = entry_splits[6]
         # Add this at the end
         object_list.append(curr_mutant)
+        easy_fstring+=f"{curr_mutant.id}\t{curr_mutant.Gene}\t{curr_mutant.SGD_ID}\t{curr_mutant.Ref}\t{curr_mutant.allele}\t{curr_mutant.description}"
 
+    with open("TS_alleles.tab", 'w') as tab:
+        tab.write(easy_fstring)
 
     json_object_list_handler.JSONs_outfmt(object_list)
 
@@ -68,4 +72,6 @@ def first_use():
 def subsequent_use():
     return json_object_list_handler.JSONs_open()
 
-mutants = subsequent_use()
+#mutants = subsequent_use()
+
+mutants = first_use()
