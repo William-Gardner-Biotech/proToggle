@@ -33,16 +33,11 @@ def first_use():
     # Let's create an object that can hold these
     # Let's make the id "Yeast"+allele
 
-    '''One = yeast_mutant("spam")
-    
-    print(One.species)'''
-
 
     # [0] = Gene name, [1] = feature type. [2] = gene ID [3] = Reference [4] = Not Important [5] = allele [6] = description
 
-    # Use a dictionary
     object_list = []
-    easy_fstring = f"entry_id\tGene_name\tSGD_gene_ID\tReference\tallele\tdescription\n"
+    easy_fstring = f"Entry_id\tGene_name\tSGD_gene_ID\tPubmed_ID\tSGD_Reference\tAllele\tDescription\n"
     for entry in allels:
         entry_splits = entry.split("\t")
         entry_id = "Yeast_"+entry_splits[0]+"_"+entry_splits[5]
@@ -51,13 +46,21 @@ def first_use():
         curr_mutant = yeast_mutant(entry_id)
         curr_mutant.Gene = entry_splits[0]
         curr_mutant.Feature_type = entry_splits[1]
+
+        # Potentially add RE here to cut the first part or use .split(":")
+
+        References2 = entry_splits[3]
+        PubmedID, SGD_reference = References2.split("|")
+        curr_mutant.Pubmed_ID = PubmedID
+        curr_mutant.SGD_Ref = SGD_reference
+
         curr_mutant.SGD_ID = entry_splits[2]
-        curr_mutant.Ref = entry_splits[3]
         curr_mutant.allele = entry_splits[5]
         curr_mutant.description = entry_splits[6]
         # Add this at the end
         object_list.append(curr_mutant)
-        easy_fstring+=f"{curr_mutant.id}\t{curr_mutant.Gene}\t{curr_mutant.SGD_ID}\t{curr_mutant.Ref}\t{curr_mutant.allele}\t{curr_mutant.description}"
+        easy_fstring+=f"{curr_mutant.id}\t{curr_mutant.Gene}\t{curr_mutant.SGD_ID}\t{curr_mutant.Pubmed_ID}\t{curr_mutant.SGD_Ref}\t{curr_mutant.allele}\t{curr_mutant.description}"
+        print(PubmedID, SGD_reference)
 
     with open("TS_alleles.tab", 'w') as tab:
         tab.write(easy_fstring)
@@ -72,6 +75,6 @@ def first_use():
 def subsequent_use():
     return json_object_list_handler.JSONs_open()
 
-#mutants = subsequent_use()
+mutants = subsequent_use()
 
-mutants = first_use()
+#mutants = first_use()
