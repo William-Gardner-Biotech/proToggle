@@ -1,0 +1,646 @@
+entry_id	Gene_name	SGD_gene_ID	Pubmed_ID	SGD_Reference	allele	description
+Yeast_YAL001C_tfc3-tsv115	YAL001C	S000000001	PMID: 18708580	SGD_REF: S000127488	tfc3-tsv115	protein/peptide distribution: abnormal
+Yeast_YAL001C_tfc3-tsv115	YAL001C	S000000001	PMID: 18708580	SGD_REF: S000127488	tfc3-tsv115	protein/peptide distribution: abnormal
+Yeast_YAL025C_mak16-ts	YAL025C	S000000023	PMID: 18439903	SGD_REF: S000126287	mak16-ts	heat sensitivity: increased
+Yeast_YAL034W-A_mtw1-ts	YAL034W-A	S000000032	PMID: 21552543	SGD_REF: S000145356	mtw1-ts	colony sectoring: increased
+Yeast_YAL043C_pta1-ts	YAL043C	S000000041	PMID: 18439903	SGD_REF: S000126287	pta1-ts	RNA accumulation: decreased
+Yeast_YAL043C_pta1-ts	YAL043C	S000000041	PMID: 18439903	SGD_REF: S000126287	pta1-ts	heat sensitivity: increased
+Yeast_YBL026W_lsm2-ts	YBL026W	S000000122	PMID: 18439903	SGD_REF: S000126287	lsm2-ts	heat sensitivity: increased
+Yeast_YBL026W_lsm2-ts	YBL026W	S000000122	PMID: 21552543	SGD_REF: S000145356	lsm2-ts	colony sectoring: increased
+Yeast_YBL034C_stu1-5(tsallele)	YBL034C	S000000130	PMID: 23390603	SGD_REF: S000151997	stu1-5 (ts allele)	resistance to chemicals: decreased
+Yeast_YBL034C_stu1-6(tsallele)	YBL034C	S000000130	PMID: 23390603	SGD_REF: S000151997	stu1-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YBL035C_pol12-ts	YBL035C	S000000131	PMID: 24336748	SGD_REF: S000156475	pol12-ts	mutation frequency: increased
+Yeast_YBL035C_pol12-ts	YBL035C	S000000131	PMID: 21552543	SGD_REF: S000145356	pol12-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YBL035C_pol12-ts	YBL035C	S000000131	PMID: 25721128	SGD_REF: S000179429	pol12-ts	protein/peptide accumulation: increased
+Yeast_YBL035C_pol12-ts	YBL035C	S000000131	PMID: 25721128	SGD_REF: S000179429	pol12-ts	protein/peptide accumulation: increased
+Yeast_YBL040C_erd2-ts	YBL040C	S000000136	PMID: 18439903	SGD_REF: S000126287	erd2-ts	heat sensitivity: increased
+Yeast_YBL041W_pre7-ts	YBL041W	S000000137	PMID: 18439903	SGD_REF: S000126287	pre7-ts	heat sensitivity: increased
+Yeast_YBL074C_aar2-ts	YBL074C	S000000170	PMID: 18439903	SGD_REF: S000126287	aar2-ts	viability: decreased
+Yeast_YBL074C_aar2-ts	YBL074C	S000000170	PMID: 18439903	SGD_REF: S000126287	aar2-ts	heat sensitivity: increased
+Yeast_YBL074C_aar2-ts	YBL074C	S000000170	PMID: 20174551	SGD_REF: S000133286	aar2-ts	colony sectoring: increased
+Yeast_YBL093C_rox3-182(tsallele)	YBL093C	S000000189	PMID: 23390603	SGD_REF: S000151997	rox3-182 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR004C_gpi18-ts	YBR004C	S000000208	PMID: 18439903	SGD_REF: S000126287	gpi18-ts	heat sensitivity: increased
+Yeast_YBR011C_ipp1-ts	YBR011C	S000000215	PMID: 18439903	SGD_REF: S000126287	ipp1-ts	heat sensitivity: increased
+Yeast_YBR029C_cds1-ts	YBR029C	S000000233	PMID: 18439903	SGD_REF: S000126287	cds1-ts	heat sensitivity: increased
+Yeast_YBR049C_reb1-ts	YBR049C	S000000253	PMID: 18439903	SGD_REF: S000126287	reb1-ts	heat sensitivity: increased
+Yeast_YBR058C-A_tsc3-2(tsallele)	YBR058C-A	S000007521	PMID: 23390603	SGD_REF: S000151997	tsc3-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR060C_orc2-1(tsallele)	YBR060C	S000000264	PMID: 23390603	SGD_REF: S000151997	orc2-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR070C_alg14-ts	YBR070C	S000000274	PMID: 18439903	SGD_REF: S000126287	alg14-ts	heat sensitivity: increased
+Yeast_YBR079C_rpg1-ts	YBR079C	S000000283	PMID: 18439903	SGD_REF: S000126287	rpg1-ts	heat sensitivity: increased
+Yeast_YBR088C_pol30-ts	YBR088C	S000000292	PMID: 21552543	SGD_REF: S000145356	pol30-ts	colony sectoring: increased
+Yeast_YBR088C_pol30-ts	YBR088C	S000000292	PMID: 21552543	SGD_REF: S000145356	pol30-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YBR088C_pol30-ts	YBR088C	S000000292	PMID: 20174551	SGD_REF: S000133286	pol30-ts	colony sectoring: increased
+Yeast_YBR088C_pol30-ts	YBR088C	S000000292	PMID: 18439903	SGD_REF: S000126287	pol30-ts	heat sensitivity: increased
+Yeast_YBR121C_grs1-ts	YBR121C	S000000325	PMID: 20174551	SGD_REF: S000133286	grs1-ts	colony sectoring: increased
+Yeast_YBR121C_grs1-ts	YBR121C	S000000325	PMID: 18439903	SGD_REF: S000126287	grs1-ts	heat sensitivity: increased
+Yeast_YBR135W_cks1-35(tsallele)	YBR135W	S000000339	PMID: 23390603	SGD_REF: S000151997	cks1-35 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR135W_cks1-38(tsallele)	YBR135W	S000000339	PMID: 23390603	SGD_REF: S000151997	cks1-38 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR142W_mak5-ts	YBR142W	S000000346	PMID: 18439903	SGD_REF: S000126287	mak5-ts	heat sensitivity: increased
+Yeast_YBR143C_sup45-ts	YBR143C	S000000347	PMID: 21552543	SGD_REF: S000145356	sup45-ts	colony sectoring: increased
+Yeast_YBR152W_spp381-ts	YBR152W	S000000356	PMID: 18439903	SGD_REF: S000126287	spp381-ts	heat sensitivity: increased
+Yeast_YBR152W_spp381-ts	YBR152W	S000000356	PMID: 21552543	SGD_REF: S000145356	spp381-ts	colony sectoring: increased
+Yeast_YBR153W_rib7-ts	YBR153W	S000000357	PMID: 18439903	SGD_REF: S000126287	rib7-ts	heat sensitivity: increased
+Yeast_YBR154C_rpb5-ts	YBR154C	S000000358	PMID: 18439903	SGD_REF: S000126287	rpb5-ts	heat sensitivity: increased
+Yeast_YBR154C_rpb5-ts	YBR154C	S000000358	PMID: 18439903	SGD_REF: S000126287	rpb5-ts	viability: decreased
+Yeast_YBR154C_rpb5-ts	YBR154C	S000000358	PMID: 20174551	SGD_REF: S000133286	rpb5-ts	colony sectoring: increased
+Yeast_YBR155W_cns1-1(tsallele)	YBR155W	S000000359	PMID: 23390603	SGD_REF: S000151997	cns1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR167C_pop7-ts	YBR167C	S000000371	PMID: 21552543	SGD_REF: S000145356	pop7-ts	colony sectoring: increased
+Yeast_YBR167C_pop7-ts	YBR167C	S000000371	PMID: 18439903	SGD_REF: S000126287	pop7-ts	heat sensitivity: increased
+Yeast_YBR202W_mcm7-(cdc47-ts)	YBR202W	S000000406	PMID: 23390603	SGD_REF: S000151997	mcm7-(cdc47-ts)	resistance to chemicals: decreased
+Yeast_YBR202W_mcm7-(cdc47-ts)	YBR202W	S000000406	PMID: 23390603	SGD_REF: S000151997	mcm7-(cdc47-ts)	resistance to chemicals: decreased
+Yeast_YBR202W_mcm7-(cdc47-ts)	YBR202W	S000000406	PMID: 24336748	SGD_REF: S000156475	mcm7-(cdc47-ts)	mutation frequency: increased
+Yeast_YBR234C_arc40-ts	YBR234C	S000000438	PMID: 18439903	SGD_REF: S000126287	arc40-ts	heat sensitivity: increased
+Yeast_YBR237W_prp5-1(tsallele)	YBR237W	S000000441	PMID: 23390603	SGD_REF: S000151997	prp5-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YBR253W_srb6-ts	YBR253W	S000000457	PMID: 18439903	SGD_REF: S000126287	srb6-ts	vegetative growth: decreased
+Yeast_YBR254C_trs20-ts	YBR254C	S000000458	PMID: 18439903	SGD_REF: S000126287	trs20-ts	heat sensitivity: increased
+Yeast_YBR256C_rib5-ts	YBR256C	S000000460	PMID: 18439903	SGD_REF: S000126287	rib5-ts	heat sensitivity: increased
+Yeast_YBR257W_pop4-ts	YBR257W	S000000461	PMID: 18439903	SGD_REF: S000126287	pop4-ts	heat sensitivity: increased
+Yeast_YCL052C_pbn1-ts	YCL052C	S000000557	PMID: 18439903	SGD_REF: S000126287	pbn1-ts	heat sensitivity: increased
+Yeast_YCL052C_pbn1-ts	YCL052C	S000000557	PMID: 20174551	SGD_REF: S000133286	pbn1-ts	colony sectoring: increased
+Yeast_YCR052W_rsc6-ts	YCR052W	S000000648	PMID: 18439903	SGD_REF: S000126287	rsc6-ts	heat sensitivity: increased
+Yeast_YCR054C_ctr86-ts	YCR054C	S000000650	PMID: 18439903	SGD_REF: S000126287	ctr86-ts	heat sensitivity: increased
+Yeast_YCR057C_pwp2-ts	YCR057C	S000000653	PMID: 21552543	SGD_REF: S000145356	pwp2-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YCR072C_rsa4-ts	YCR072C	S000000668	PMID: 18439903	SGD_REF: S000126287	rsa4-ts	heat sensitivity: increased
+Yeast_YDL003W_mcd1-ts	YDL003W	S000002161	PMID: 18439903	SGD_REF: S000126287	mcd1-ts	heat sensitivity: increased
+Yeast_YDL008W_apc11-22(tsallele)	YDL008W	S000002166	PMID: 23390603	SGD_REF: S000151997	apc11-22 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL015C_tsc13-ts	YDL015C	S000002173	PMID: 18439903	SGD_REF: S000126287	tsc13-ts	heat sensitivity: increased
+Yeast_YDL017W_cdc7-1(tsallele)	YDL017W	S000002175	PMID: 23390603	SGD_REF: S000151997	cdc7-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL028C_mps1-6(tsallele)	YDL028C	S000002186	PMID: 23390603	SGD_REF: S000151997	mps1-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL043C_prp11-ts(tsallele)	YDL043C	S000002201	PMID: 23390603	SGD_REF: S000151997	prp11-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YDL044C_mtf2-(pet-ts3504)(S309P)	YDL044C	S000002202	PMID: 2124681	SGD_REF: S000051892	mtf2-(pet-ts3504) (S309P)	respiratory growth: decreased
+Yeast_YDL045C_fad1-ts	YDL045C	S000002203	PMID: 21552543	SGD_REF: S000145356	fad1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDL045C_fad1-ts	YDL045C	S000002203	PMID: 18439903	SGD_REF: S000126287	fad1-ts	heat sensitivity: increased
+Yeast_YDL092W_srp14-ts	YDL092W	S000002250	PMID: 18439903	SGD_REF: S000126287	srp14-ts	heat sensitivity: increased
+Yeast_YDL097C_rpn6-ts	YDL097C	S000002255	PMID: 18439903	SGD_REF: S000126287	rpn6-ts	heat sensitivity: increased
+Yeast_YDL098C_snu23-ts	YDL098C	S000002256	PMID: 21552543	SGD_REF: S000145356	snu23-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDL098C_snu23-ts	YDL098C	S000002256	PMID: 18439903	SGD_REF: S000126287	snu23-ts	heat sensitivity: increased
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 6348512	SGD_REF: S000039857	pol3-(cdc2-1) (ts allele)	cell cycle progression in S phase: arrested
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 21552543	SGD_REF: S000145356	pol3-(cdc2-1) (ts allele)	chromosome/plasmid maintenance: abnormal
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 23390603	SGD_REF: S000151997	pol3-(cdc2-1) (ts allele)	resistance to chemicals: decreased
+Yeast_YDL102W_pol3-(cdc2-7)(tsallele)	YDL102W	S000002260	PMID: 23390603	SGD_REF: S000151997	pol3-(cdc2-7) (ts allele)	resistance to chemicals: decreased
+Yeast_YDL102W_pol3-(cdc2-7)(tsallele)	YDL102W	S000002260	PMID: 23390603	SGD_REF: S000151997	pol3-(cdc2-7) (ts allele)	resistance to chemicals: decreased
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 24336748	SGD_REF: S000156475	pol3-(cdc2-1) (ts allele)	mutation frequency: increased
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 4599956	SGD_REF: S000121571	pol3-(cdc2-1) (ts allele)	sporulation: absent
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 367734	SGD_REF: S000051645	pol3-(cdc2-1) (ts allele)	sporulation: decreased
+Yeast_YDL102W_pol3-(cdc2-1)(tsallele)	YDL102W	S000002260	PMID: 367734	SGD_REF: S000051645	pol3-(cdc2-1) (ts allele)	meiosis: arrested
+Yeast_YDL103C_qri1-ts	YDL103C	S000002261	PMID: 18439903	SGD_REF: S000126287	qri1-ts	heat sensitivity: increased
+Yeast_YDL103C_qri1-ts1	YDL103C	S000002261	PMID: 21552543	SGD_REF: S000145356	qri1-ts1	chromosome/plasmid maintenance: abnormal
+Yeast_YDL105W_nse4-ts3	YDL105W	S000002263	PMID: 21552543	SGD_REF: S000145356	nse4-ts3	chromosome/plasmid maintenance: abnormal
+Yeast_YDL105W_nse4-ts1(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts1(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts2(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts2 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts3(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts3 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts4(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts4 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts4(tsallele)	YDL105W	S000002263	PMID: 23390603	SGD_REF: S000151997	nse4-ts4 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL105W_nse4-ts	YDL105W	S000002263	PMID: 18439903	SGD_REF: S000126287	nse4-ts	heat sensitivity: increased
+Yeast_YDL105W_nse4-ts/nse4-ts	YDL105W	S000002263	PMID: 18439903	SGD_REF: S000126287	nse4-ts/nse4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDL105W_nse4-ts	YDL105W	S000002263	PMID: 18439903	SGD_REF: S000126287	nse4-ts	viability: decreased
+Yeast_YDL105W_nse4-ts	YDL105W	S000002263	PMID: 18439903	SGD_REF: S000126287	nse4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDL105W_nse4-ts	YDL105W	S000002263	PMID: 18439903	SGD_REF: S000126287	nse4-ts	colony sectoring: increased
+Yeast_YDL108W_kin28-ts3	YDL108W	S000002266	PMID: 19324962	SGD_REF: S000129739	kin28-ts3	resistance to chemicals: decreased
+Yeast_YDL111C_rrp42-ts	YDL111C	S000002269	PMID: 18439903	SGD_REF: S000126287	rrp42-ts	heat sensitivity: increased
+Yeast_YDL126C_cdc48-ts(T413R)	YDL126C	S000002284	PMID: 20206597	SGD_REF: S000133435	cdc48-ts (T413R)	protein/peptide accumulation: increased
+Yeast_YDL132W_cdc53-1(tsallele)	YDL132W	S000002290	PMID: 23390603	SGD_REF: S000151997	cdc53-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL141W_bpl1-ts	YDL141W	S000002300	PMID: 18439903	SGD_REF: S000126287	bpl1-ts	heat sensitivity: increased
+Yeast_YDL141W_bpl1-ts	YDL141W	S000002300	PMID: 21552543	SGD_REF: S000145356	bpl1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDL143W_cct4-1(tsallele)	YDL143W	S000002302	PMID: 23390603	SGD_REF: S000151997	cct4-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL147W_rpn5-ts	YDL147W	S000002306	PMID: 18439903	SGD_REF: S000126287	rpn5-ts	heat sensitivity: increased
+Yeast_YDL147W_rpn5-ts(C-terminaltruncation(insertionandprematurestop))	YDL147W	S000002306	PMID: 20174551	SGD_REF: S000133286	rpn5-ts (C-terminal truncation (insertion and premature stop))	colony sectoring: increased
+Yeast_YDL147W_rpn5-ts(C-terminaltruncation(insertionandprematurestop))	YDL147W	S000002306	PMID: 20174551	SGD_REF: S000133286	rpn5-ts (C-terminal truncation (insertion and premature stop))	resistance to chemicals: decreased
+Yeast_YDL147W_rpn5-ts(C-terminaltruncation(insertionandprematurestop))	YDL147W	S000002306	PMID: 20174551	SGD_REF: S000133286	rpn5-ts (C-terminal truncation (insertion and premature stop))	resistance to chemicals: decreased
+Yeast_YDL165W_cdc36-16(tsallele)	YDL165W	S000002324	PMID: 23390603	SGD_REF: S000151997	cdc36-16 (ts allele)	resistance to chemicals: decreased
+Yeast_YDL193W_nus1-ts	YDL193W	S000002352	PMID: 18439903	SGD_REF: S000126287	nus1-ts	heat sensitivity: increased
+Yeast_YDL208W_nhp2-ts	YDL208W	S000002367	PMID: 18439903	SGD_REF: S000126287	nhp2-ts	heat sensitivity: increased
+Yeast_YDL209C_cwc2-ts	YDL209C	S000002368	PMID: 20174551	SGD_REF: S000133286	cwc2-ts	colony sectoring: increased
+Yeast_YDL209C_cwc2-ts	YDL209C	S000002368	PMID: 18439903	SGD_REF: S000126287	cwc2-ts	viability: decreased
+Yeast_YDL209C_cwc2-ts	YDL209C	S000002368	PMID: 18439903	SGD_REF: S000126287	cwc2-ts	heat sensitivity: increased
+Yeast_YDR013W_psf1-ts/psf1-ts	YDR013W	S000002420	PMID: 18439903	SGD_REF: S000126287	psf1-ts/psf1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR013W_psf1-ts	YDR013W	S000002420	PMID: 18439903	SGD_REF: S000126287	psf1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR013W_psf1-ts	YDR013W	S000002420	PMID: 18439903	SGD_REF: S000126287	psf1-ts	colony sectoring: increased
+Yeast_YDR013W_psf1-ts	YDR013W	S000002420	PMID: 18439903	SGD_REF: S000126287	psf1-ts	heat sensitivity: increased
+Yeast_YDR016C_dad1-ts	YDR016C	S000002423	PMID: 18439903	SGD_REF: S000126287	dad1-ts	heat sensitivity: increased
+Yeast_YDR044W_hem13-ts	YDR044W	S000002451	PMID: 18439903	SGD_REF: S000126287	hem13-ts	vegetative growth: decreased
+Yeast_YDR045C_rpc11-ts	YDR045C	S000002452	PMID: 18439903	SGD_REF: S000126287	rpc11-ts	heat sensitivity: increased
+Yeast_YDR052C_dbf4-ts	YDR052C	S000002459	PMID: 21552543	SGD_REF: S000145356	dbf4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR062W_lcb2-2(tsallele)	YDR062W	S000002469	PMID: 23390603	SGD_REF: S000151997	lcb2-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR062W_lcb2-19(tsallele)	YDR062W	S000002469	PMID: 23390603	SGD_REF: S000151997	lcb2-19 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR064W_rps13-ts	YDR064W	S000002471	PMID: 18439903	SGD_REF: S000126287	rps13-ts	heat sensitivity: increased
+Yeast_YDR086C_sss1-ts	YDR086C	S000002493	PMID: 18439903	SGD_REF: S000126287	sss1-ts	heat sensitivity: increased
+Yeast_YDR091C_rli1-ts	YDR091C	S000002498	PMID: 20174551	SGD_REF: S000133286	rli1-ts	colony sectoring: increased
+Yeast_YDR091C_rli1-ts	YDR091C	S000002498	PMID: 18439903	SGD_REF: S000126287	rli1-ts	heat sensitivity: increased
+Yeast_YDR118W_apc4-ts	YDR118W	S000002525	PMID: 20174551	SGD_REF: S000133286	apc4-ts	colony sectoring: increased
+Yeast_YDR118W_apc4-ts	YDR118W	S000002525	PMID: 18439903	SGD_REF: S000126287	apc4-ts	heat sensitivity: increased
+Yeast_YDR118W_apc4-ts	YDR118W	S000002525	PMID: 18439903	SGD_REF: S000126287	apc4-ts	viability: decreased
+Yeast_YDR145W_taf12-W486stop(tsallele)	YDR145W	S000002552	PMID: 23390603	SGD_REF: S000151997	taf12-W486stop (ts allele)	resistance to chemicals: decreased
+Yeast_YDR145W_taf12-W486stop(tsallele)	YDR145W	S000002552	PMID: 24336748	SGD_REF: S000156475	taf12-W486stop (ts allele)	mutation frequency: increased
+Yeast_YDR168W_cdc37-1(tsallele)	YDR168W	S000002575	PMID: 23390603	SGD_REF: S000151997	cdc37-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR168W_cdc37-ts(tsallele)	YDR168W	S000002575	PMID: 23390603	SGD_REF: S000151997	cdc37-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YDR168W_cdc37-ts	YDR168W	S000002575	PMID: 21552543	SGD_REF: S000145356	cdc37-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR188W_cct6-18(tsallele)	YDR188W	S000002596	PMID: 23390603	SGD_REF: S000151997	cct6-18 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR189W_sly1-ts	YDR189W	S000002597	PMID: 21552543	SGD_REF: S000145356	sly1-ts	colony sectoring: increased
+Yeast_YDR196C_cab5-ts	YDR196C	S000002604	PMID: 18439903	SGD_REF: S000126287	cab5-ts	heat sensitivity: increased
+Yeast_YDR196C_cab5-ts	YDR196C	S000002604	PMID: 18439903	SGD_REF: S000126287	cab5-ts	RNA accumulation: decreased
+Yeast_YDR201W_spc19-ts	YDR201W	S000002609	PMID: 20174551	SGD_REF: S000133286	spc19-ts	colony sectoring: increased
+Yeast_YDR201W_spc19-ts	YDR201W	S000002609	PMID: 18439903	SGD_REF: S000126287	spc19-ts	heat sensitivity: increased
+Yeast_YDR212W_tcp1-2(tsallele)	YDR212W	S000002620	PMID: 23390603	SGD_REF: S000151997	tcp1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR212W_tcp1-1(tsallele)	YDR212W	S000002620	PMID: 23390603	SGD_REF: S000151997	tcp1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YDR228C_pcf11-ts10	YDR228C	S000002636	PMID: 21552543	SGD_REF: S000145356	pcf11-ts10	colony sectoring: increased
+Yeast_YDR235W_prp42-ts	YDR235W	S000002643	PMID: 18439903	SGD_REF: S000126287	prp42-ts	heat sensitivity: increased
+Yeast_YDR246W_trs23-ts	YDR246W	S000002654	PMID: 18439903	SGD_REF: S000126287	trs23-ts	heat sensitivity: increased
+Yeast_YDR246W_trs23-ts	YDR246W	S000002654	PMID: 18439903	SGD_REF: S000126287	trs23-ts	colony sectoring: increased
+Yeast_YDR246W_trs23-ts	YDR246W	S000002654	PMID: 18439903	SGD_REF: S000126287	trs23-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR246W_trs23-ts	YDR246W	S000002654	PMID: 18439903	SGD_REF: S000126287	trs23-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR267C_cia1-ts	YDR267C	S000002675	PMID: 18439903	SGD_REF: S000126287	cia1-ts	heat sensitivity: increased
+Yeast_YDR280W_rrp45-ts	YDR280W	S000002688	PMID: 18439903	SGD_REF: S000126287	rrp45-ts	heat sensitivity: increased
+Yeast_YDR288W_nse3-ts	YDR288W	S000002696	PMID: 18439903	SGD_REF: S000126287	nse3-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR288W_nse3-ts	YDR288W	S000002696	PMID: 18439903	SGD_REF: S000126287	nse3-ts	heat sensitivity: increased
+Yeast_YDR288W_nse3-ts/nse3-ts	YDR288W	S000002696	PMID: 18439903	SGD_REF: S000126287	nse3-ts/nse3-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR288W_nse3-ts	YDR288W	S000002696	PMID: 18439903	SGD_REF: S000126287	nse3-ts	colony sectoring: increased
+Yeast_YDR299W_bfr2-ts	YDR299W	S000002707	PMID: 18439903	SGD_REF: S000126287	bfr2-ts	heat sensitivity: increased
+Yeast_YDR302W_gpi11-ts	YDR302W	S000002710	PMID: 18439903	SGD_REF: S000126287	gpi11-ts	heat sensitivity: increased
+Yeast_YDR339C_fcf1-ts	YDR339C	S000002747	PMID: 18439903	SGD_REF: S000126287	fcf1-ts	heat sensitivity: increased
+Yeast_YDR339C_fcf1-ts	YDR339C	S000002747	PMID: 18439903	SGD_REF: S000126287	fcf1-ts	RNA accumulation: decreased
+Yeast_YDR341C_ydr341c-ts	YDR341C	S000002749	PMID: 18439903	SGD_REF: S000126287	ydr341c-ts	heat sensitivity: increased
+Yeast_YDR361C_bcp1-ts	YDR361C	S000002769	PMID: 12912920	SGD_REF: S000074127	bcp1-ts	nuclear export: decreased
+Yeast_YDR364C_cdc40-ts	YDR364C	S000002772	PMID: 25721128	SGD_REF: S000179429	cdc40-ts	protein/peptide accumulation: decreased
+Yeast_YDR367W_kei1-ts	YDR367W	S000002775	PMID: 18439903	SGD_REF: S000126287	kei1-ts	heat sensitivity: increased
+Yeast_YDR390C_uba2-ts9	YDR390C	S000002798	PMID: 20351217	SGD_REF: S000133590	uba2-ts9	protein/peptide accumulation: increased
+Yeast_YDR398W_utp5-ts	YDR398W	S000002806	PMID: 20174551	SGD_REF: S000133286	utp5-ts	colony sectoring: increased
+Yeast_YDR398W_utp5-ts	YDR398W	S000002806	PMID: 18439903	SGD_REF: S000126287	utp5-ts	heat sensitivity: increased
+Yeast_YDR404C_rpb7-ts	YDR404C	S000002812	PMID: 21552543	SGD_REF: S000145356	rpb7-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR416W_syf1-ts	YDR416W	S000002824	PMID: 21552543	SGD_REF: S000145356	syf1-ts	colony sectoring: increased
+Yeast_YDR434W_gpi17-ts	YDR434W	S000002842	PMID: 18439903	SGD_REF: S000126287	gpi17-ts	heat sensitivity: increased
+Yeast_YDR434W_gpi17-ts	YDR434W	S000002842	PMID: 20174551	SGD_REF: S000133286	gpi17-ts	colony sectoring: increased
+Yeast_YDR437W_gpi19-ts	YDR437W	S000002845	PMID: 18439903	SGD_REF: S000126287	gpi19-ts	heat sensitivity: increased
+Yeast_YDR449C_utp6-ts	YDR449C	S000002857	PMID: 21552543	SGD_REF: S000145356	utp6-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR454C_guk1-ts	YDR454C	S000002862	PMID: 18439903	SGD_REF: S000126287	guk1-ts	heat sensitivity: increased
+Yeast_YDR460W_tfb3-ts	YDR460W	S000002868	PMID: 10681587	SGD_REF: S000064782	tfb3-ts	heat sensitivity: increased
+Yeast_YDR460W_tfb3-ts	YDR460W	S000002868	PMID: 10681587	SGD_REF: S000064782	tfb3-ts	UV resistance: decreased
+Yeast_YDR460W_tfb3-ts	YDR460W	S000002868	PMID: 21552543	SGD_REF: S000145356	tfb3-ts	colony sectoring: increased
+Yeast_YDR460W_tfb3-ts	YDR460W	S000002868	PMID: 10681587	SGD_REF: S000064782	tfb3-ts	resistance to chemicals: decreased
+Yeast_YDR472W_trs31-ts	YDR472W	S000002880	PMID: 18439903	SGD_REF: S000126287	trs31-ts	heat sensitivity: increased
+Yeast_YDR478W_snm1-ts	YDR478W	S000002886	PMID: 18439903	SGD_REF: S000126287	snm1-ts	heat sensitivity: increased
+Yeast_YDR487C_rib3-ts	YDR487C	S000002895	PMID: 21552543	SGD_REF: S000145356	rib3-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR487C_rib3-ts	YDR487C	S000002895	PMID: 21552543	SGD_REF: S000145356	rib3-ts	colony sectoring: increased
+Yeast_YDR487C_rib3-ts	YDR487C	S000002895	PMID: 18439903	SGD_REF: S000126287	rib3-ts	heat sensitivity: increased
+Yeast_YDR489W_sld5-ts	YDR489W	S000002897	PMID: 21552543	SGD_REF: S000145356	sld5-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR489W_sld5-ts	YDR489W	S000002897	PMID: 18439903	SGD_REF: S000126287	sld5-ts	colony sectoring: increased
+Yeast_YDR489W_sld5-ts	YDR489W	S000002897	PMID: 18439903	SGD_REF: S000126287	sld5-ts	heat sensitivity: increased
+Yeast_YDR489W_sld5-ts	YDR489W	S000002897	PMID: 18439903	SGD_REF: S000126287	sld5-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YDR489W_sld5-ts	YDR489W	S000002897	PMID: 18439903	SGD_REF: S000126287	sld5-ts	viability: decreased
+Yeast_YDR527W_rba50-ts	YDR527W	S000002935	PMID: 18439903	SGD_REF: S000126287	rba50-ts	heat sensitivity: increased
+Yeast_YDR531W_cab1-ts	YDR531W	S000002939	PMID: 18439903	SGD_REF: S000126287	cab1-ts	heat sensitivity: increased
+Yeast_YEL026W_snu13-ts	YEL026W	S000000752	PMID: 18439903	SGD_REF: S000126287	snu13-ts	heat sensitivity: increased
+Yeast_YER003C_pmi40-ts	YER003C	S000000805	PMID: 18439903	SGD_REF: S000126287	pmi40-ts	heat sensitivity: increased
+Yeast_YER009W_ntf2-ts	YER009W	S000000811	PMID: 18439903	SGD_REF: S000126287	ntf2-ts	heat sensitivity: increased
+Yeast_YER009W_ntf2-ts	YER009W	S000000811	PMID: 21552543	SGD_REF: S000145356	ntf2-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YER012W_pre1-ts	YER012W	S000000814	PMID: 21552543	SGD_REF: S000145356	pre1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YER012W_pre1-ts	YER012W	S000000814	PMID: 21552543	SGD_REF: S000145356	pre1-ts	colony sectoring: increased
+Yeast_YER012W_pre1-ts	YER012W	S000000814	PMID: 18439903	SGD_REF: S000126287	pre1-ts	heat sensitivity: increased
+Yeast_YER012W_pre1-ts	YER012W	S000000814	PMID: 20174551	SGD_REF: S000133286	pre1-ts	resistance to chemicals: decreased
+Yeast_YER012W_pre1-ts	YER012W	S000000814	PMID: 20174551	SGD_REF: S000133286	pre1-ts	resistance to chemicals: decreased
+Yeast_YER013W_prp22-1(tsallele)	YER013W	S000000815	PMID: 23390603	SGD_REF: S000151997	prp22-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YER023W_pro3-ts	YER023W	S000000825	PMID: 21552543	SGD_REF: S000145356	pro3-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YER023W_pro3-ts	YER023W	S000000825	PMID: 20174551	SGD_REF: S000133286	pro3-ts	colony sectoring: increased
+Yeast_YER023W_pro3-ts	YER023W	S000000825	PMID: 18439903	SGD_REF: S000126287	pro3-ts	heat sensitivity: increased
+Yeast_YER093C_tsc11-tsB2(L357P,Y422H,E466V,F568L,L577P,E638G)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsB2 (L357P, Y422H, E466V, F568L, L577P, E638G)	actin cytoskeleton morphology: abnormal
+Yeast_YER093C_tsc11-tsB1(Y370H,F419L,H500L)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsB1 (Y370H, F419L, H500L)	actin cytoskeleton morphology: abnormal
+Yeast_YER093C_tsc11-tsD1(I1008T,E1076G,K1079G,F1101S,N1142D,I1159V,I1267K,E1274G,D1276G,N1352D,N1367D)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsD1 (I1008T, E1076G, K1079G, F1101S, N1142D, I1159V, I1267K, E1274G, D1276G, N1352D, N1367D)	heat sensitivity: increased
+Yeast_YER093C_tsc11-tsC1(K808T,F820S,K865E,F904V)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsC1 (K808T, F820S, K865E, F904V)	heat sensitivity: increased
+Yeast_YER093C_tsc11-tsB2(L357P,Y422H,E466V,F568L,L577P,E638G)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsB2 (L357P, Y422H, E466V, F568L, L577P, E638G)	heat sensitivity: increased
+Yeast_YER093C_tsc11-tsB1(Y370H,F419L,H500L)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsB1 (Y370H, F419L, H500L)	heat sensitivity: increased
+Yeast_YER093C_tsc11-tsD1(I1008T,E1076G,K1079G,F1101S,N1142D,I1159V,I1267K,E1274G,D1276G,N1352D,N1367D)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsD1 (I1008T, E1076G, K1079G, F1101S, N1142D, I1159V, I1267K, E1274G, D1276G, N1352D, N1367D)	resistance to chemicals: decreased
+Yeast_YER093C_tsc11-tsD1(I1008T,E1076G,K1079G,F1101S,N1142D,I1159V,I1267K,E1274G,D1276G,N1352D,N1367D)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsD1 (I1008T, E1076G, K1079G, F1101S, N1142D, I1159V, I1267K, E1274G, D1276G, N1352D, N1367D)	actin cytoskeleton morphology: abnormal
+Yeast_YER093C_tsc11-tsC1(K808T,F820S,K865E,F904V)	YER093C	S000000895	PMID: 15809876	SGD_REF: S000081257	tsc11-tsC1 (K808T, F820S, K865E, F904V)	actin cytoskeleton morphology: abnormal
+Yeast_YER094C_pup3-ts	YER094C	S000000896	PMID: 18439903	SGD_REF: S000126287	pup3-ts	heat sensitivity: increased
+Yeast_YER147C_scc4-ts	YER147C	S000000949	PMID: 21552543	SGD_REF: S000145356	scc4-ts	colony sectoring: increased
+Yeast_YER147C_scc4-ts	YER147C	S000000949	PMID: 21552543	SGD_REF: S000145356	scc4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YER148W_spt15-I143N(tsallele)	YER148W	S000000950	PMID: 23390603	SGD_REF: S000151997	spt15-I143N (ts allele)	resistance to chemicals: decreased
+Yeast_YER168C_cca1-ts	YER168C	S000000970	PMID: 18439903	SGD_REF: S000126287	cca1-ts	heat sensitivity: increased
+Yeast_YER171W_rad3-ts1(S73F)	YER171W	S000000973	PMID: 2174856	SGD_REF: S000052283	rad3-ts1 (S73F)	UV resistance: normal
+Yeast_YER171W_rad3-ts14	YER171W	S000000973	PMID: 8107780	SGD_REF: S000048160	rad3-ts14	heat sensitivity: increased
+Yeast_YFL002C_spb4-ts	YFL002C	S000001894	PMID: 18439903	SGD_REF: S000126287	spb4-ts	heat sensitivity: increased
+Yeast_YFL009W_cdc4-ts	YFL009W	S000001885	PMID: 18439903	SGD_REF: S000126287	cdc4-ts	heat sensitivity: increased
+Yeast_YFL017C_gna1-ts	YFL017C	S000001877	PMID: 18439903	SGD_REF: S000126287	gna1-ts	heat sensitivity: increased
+Yeast_YFL022C_frs2-ts	YFL022C	S000001872	PMID: 18439903	SGD_REF: S000126287	frs2-ts	heat sensitivity: increased
+Yeast_YFL024C_epl1-1(temperaturesensitive)	YFL024C	S000001870	PMID: 22539722	SGD_REF: S000149758	epl1-1 (temperature sensitive)	autophagy: decreased
+Yeast_YFL034C-B_mob2-24(tsallele)	YFL034C-B	S000001859	PMID: 23390603	SGD_REF: S000151997	mob2-24 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL034C-B_mob2-28(tsallele)	YFL034C-B	S000001859	PMID: 23390603	SGD_REF: S000151997	mob2-28 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL034C-B_mob2-24(tsallele)	YFL034C-B	S000001859	PMID: 23390603	SGD_REF: S000151997	mob2-24 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL036W_rpo41-(pet-ts798)	YFL036W	S000001858	PMID: 2693937	SGD_REF: S000050574	rpo41-(pet-ts798)	respiratory growth: absent
+Yeast_YFL039C_act1-2(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-4(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-4 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-133(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-133 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-133(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-133 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-133(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-133 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-136(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-136 (ts allele)	resistance to chemicals: decreased
+Yeast_YFL039C_act1-2(tsallele)	YFL039C	S000001855	PMID: 23390603	SGD_REF: S000151997	act1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YFR005C_sad1-1(tsallele)	YFR005C	S000001901	PMID: 23390603	SGD_REF: S000151997	sad1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YFR031C_smc2-8(tsallele)	YFR031C	S000001927	PMID: 23390603	SGD_REF: S000151997	smc2-8 (ts allele)	resistance to chemicals: decreased
+Yeast_YFR037C_rsc8-ts21	YFR037C	S000001933	PMID: 21552543	SGD_REF: S000145356	rsc8-ts21	colony sectoring: increased
+Yeast_YFR042W_keg1-ts	YFR042W	S000001938	PMID: 18439903	SGD_REF: S000126287	keg1-ts	heat sensitivity: increased
+Yeast_YFR042W_keg1-ts	YFR042W	S000001938	PMID: 18439903	SGD_REF: S000126287	keg1-ts	colony sectoring: increased
+Yeast_YFR042W_keg1-ts/keg1-ts	YFR042W	S000001938	PMID: 18439903	SGD_REF: S000126287	keg1-ts/keg1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YFR042W_keg1-ts	YFR042W	S000001938	PMID: 18439903	SGD_REF: S000126287	keg1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YFR050C_pre4-ts	YFR050C	S000001946	PMID: 18439903	SGD_REF: S000126287	pre4-ts	heat sensitivity: increased
+Yeast_YFR050C_pre4-ts	YFR050C	S000001946	PMID: 20174551	SGD_REF: S000133286	pre4-ts	resistance to chemicals: decreased
+Yeast_YFR050C_pre4-ts	YFR050C	S000001946	PMID: 20174551	SGD_REF: S000133286	pre4-ts	colony sectoring: increased
+Yeast_YFR050C_pre4-ts	YFR050C	S000001946	PMID: 20174551	SGD_REF: S000133286	pre4-ts	resistance to chemicals: decreased
+Yeast_YGL011C_scl1-ts	YGL011C	S000002979	PMID: 18439903	SGD_REF: S000126287	scl1-ts	heat sensitivity: increased
+Yeast_YGL011C_scl1-ts	YGL011C	S000002979	PMID: 20174551	SGD_REF: S000133286	scl1-ts	resistance to chemicals: decreased
+Yeast_YGL011C_scl1-ts	YGL011C	S000002979	PMID: 20174551	SGD_REF: S000133286	scl1-ts	colony sectoring: increased
+Yeast_YGL011C_scl1-ts	YGL011C	S000002979	PMID: 20174551	SGD_REF: S000133286	scl1-ts	resistance to chemicals: decreased
+Yeast_YGL030W_rpl30-ts	YGL030W	S000002998	PMID: 21552543	SGD_REF: S000145356	rpl30-ts	colony sectoring: increased
+Yeast_YGL030W_rpl30-ts	YGL030W	S000002998	PMID: 21552543	SGD_REF: S000145356	rpl30-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGL073W_hsf1-848(tsallele)	YGL073W	S000003041	PMID: 23390603	SGD_REF: S000151997	hsf1-848 (ts allele)	resistance to chemicals: decreased
+Yeast_YGL075C_mps2-1(tsallele)	YGL075C	S000003043	PMID: 23390603	SGD_REF: S000151997	mps2-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YGL075C_mps2-2(tsallele)	YGL075C	S000003043	PMID: 23390603	SGD_REF: S000151997	mps2-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YGL091C_nbp35-ts	YGL091C	S000003059	PMID: 18439903	SGD_REF: S000126287	nbp35-ts	heat sensitivity: increased
+Yeast_YGL097W_srm1-ts	YGL097W	S000003065	PMID: 21552543	SGD_REF: S000145356	srm1-ts	colony sectoring: increased
+Yeast_YGL098W_use1-ts(tsallele)	YGL098W	S000003066	PMID: 21552543	SGD_REF: S000145356	use1-ts (ts allele)	colony sectoring: increased
+Yeast_YGL098W_use1-ts(tsallele)	YGL098W	S000003066	PMID: 23390603	SGD_REF: S000151997	use1-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YGL098W_use1-ts(tsallele)	YGL098W	S000003066	PMID: 24336748	SGD_REF: S000156475	use1-ts (ts allele)	mutation frequency: increased
+Yeast_YGL111W_nsa1-ts	YGL111W	S000003079	PMID: 18439903	SGD_REF: S000126287	nsa1-ts	heat sensitivity: increased
+Yeast_YGL112C_taf6-ts(tsallele)	YGL112C	S000003080	PMID: 23390603	SGD_REF: S000151997	taf6-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YGL113W_sld3-ts	YGL113W	S000003081	PMID: 21552543	SGD_REF: S000145356	sld3-ts	colony sectoring: increased
+Yeast_YGL113W_sld3-ts	YGL113W	S000003081	PMID: 18439903	SGD_REF: S000126287	sld3-ts	heat sensitivity: increased
+Yeast_YGL120C_prp43-ts2(tsallele)	YGL120C	S000003088	PMID: 23390603	SGD_REF: S000151997	prp43-ts2 (ts allele)	resistance to chemicals: decreased
+Yeast_YGL120C_prp43-ts2	YGL120C	S000003088	PMID: 25721128	SGD_REF: S000179429	prp43-ts2	protein/peptide accumulation: decreased
+Yeast_YGL142C_gpi10-ts	YGL142C	S000003110	PMID: 18439903	SGD_REF: S000126287	gpi10-ts	heat sensitivity: increased
+Yeast_YGL142C_gpi10-ts	YGL142C	S000003110	PMID: 20174551	SGD_REF: S000133286	gpi10-ts	colony sectoring: increased
+Yeast_YGL180W_atg1-ts	YGL180W	S000003148	PMID: 26565778	SGD_REF: S000182026	atg1-ts	protein/peptide distribution: abnormal
+Yeast_YGL180W_atg1-(apg1-ts)	YGL180W	S000003148	PMID: 11689437	SGD_REF: S000068967	atg1-(apg1-ts)	autophagy: absent
+Yeast_YGL180W_atg1-(apg1-ts)	YGL180W	S000003148	PMID: 11689437	SGD_REF: S000068967	atg1-(apg1-ts)	protein/peptide modification: absent
+Yeast_YGL201C_mcm6-ts	YGL201C	S000003169	PMID: 21552543	SGD_REF: S000145356	mcm6-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGL206C_chc1-ts	YGL206C	S000003174	PMID: 20150898	SGD_REF: S000133099	chc1-ts	protein/peptide distribution: abnormal
+Yeast_YGL207W_spt16-ts	YGL207W	S000003175	PMID: 21552543	SGD_REF: S000145356	spt16-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGL225W_vrg4-ts	YGL225W	S000003193	PMID: 18439903	SGD_REF: S000126287	vrg4-ts	heat sensitivity: increased
+Yeast_YGL245W_gus1-ts	YGL245W	S000003214	PMID: 18439903	SGD_REF: S000126287	gus1-ts	heat sensitivity: increased
+Yeast_YGL245W_gus1-ts	YGL245W	S000003214	PMID: 21552543	SGD_REF: S000145356	gus1-ts	colony sectoring: increased
+Yeast_YGL247W_brr6-ts	YGL247W	S000003216	PMID: 18439903	SGD_REF: S000126287	brr6-ts	vegetative growth: decreased
+Yeast_YGR002C_swc4-ts	YGR002C	S000003234	PMID: 21552543	SGD_REF: S000145356	swc4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGR002C_swc4-ts	YGR002C	S000003234	PMID: 18439903	SGD_REF: S000126287	swc4-ts	heat sensitivity: increased
+Yeast_YGR002C_swc4-ts	YGR002C	S000003234	PMID: 18439903	SGD_REF: S000126287	swc4-ts	colony sectoring: increased
+Yeast_YGR002C_swc4-ts	YGR002C	S000003234	PMID: 18439903	SGD_REF: S000126287	swc4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGR002C_swc4-ts	YGR002C	S000003234	PMID: 18439903	SGD_REF: S000126287	swc4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YGR005C_tfg2-ts	YGR005C	S000003237	PMID: 18439903	SGD_REF: S000126287	tfg2-ts	heat sensitivity: increased
+Yeast_YGR013W_snu71-ts	YGR013W	S000003245	PMID: 18439903	SGD_REF: S000126287	snu71-ts	heat sensitivity: increased
+Yeast_YGR029W_erv1-(pet-ts492)	YGR029W	S000003261	PMID: 1552903	SGD_REF: S000039836	erv1-(pet-ts492)	respiratory growth: absent
+Yeast_YGR029W_erv1-ts	YGR029W	S000003261	PMID: 18439903	SGD_REF: S000126287	erv1-ts	heat sensitivity: increased
+Yeast_YGR046W_tam41-ts	YGR046W	S000003278	PMID: 18439903	SGD_REF: S000126287	tam41-ts	heat sensitivity: increased
+Yeast_YGR048W_ufd1-2(tsallele)	YGR048W	S000003280	PMID: 23390603	SGD_REF: S000151997	ufd1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YGR113W_dam1-1(tsallele)	YGR113W	S000003345	PMID: 23390603	SGD_REF: S000151997	dam1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YGR119C_nup57-ts	YGR119C	S000003351	PMID: 18439903	SGD_REF: S000126287	nup57-ts	heat sensitivity: increased
+Yeast_YGR128C_utp8-ts	YGR128C	S000003360	PMID: 18439903	SGD_REF: S000126287	utp8-ts	heat sensitivity: increased
+Yeast_YGR145W_enp2-ts	YGR145W	S000003377	PMID: 18439903	SGD_REF: S000126287	enp2-ts	RNA accumulation: decreased
+Yeast_YGR145W_enp2-ts	YGR145W	S000003377	PMID: 18439903	SGD_REF: S000126287	enp2-ts	heat sensitivity: increased
+Yeast_YGR156W_pti1-ts7	YGR156W	S000003388	PMID: 21552543	SGD_REF: S000145356	pti1-ts7	chromosome/plasmid maintenance: abnormal
+Yeast_YGR156W_pti1-ts7	YGR156W	S000003388	PMID: 21552543	SGD_REF: S000145356	pti1-ts7	colony sectoring: increased
+Yeast_YGR172C_yip1-ts	YGR172C	S000003404	PMID: 18439903	SGD_REF: S000126287	yip1-ts	heat sensitivity: increased
+Yeast_YGR195W_ski6-ts	YGR195W	S000003427	PMID: 18439903	SGD_REF: S000126287	ski6-ts	heat sensitivity: increased
+Yeast_YGR251W_nop19-ts	YGR251W	S000003483	PMID: 18439903	SGD_REF: S000126287	nop19-ts	vegetative growth: decreased
+Yeast_YGR253C_pup2-ts	YGR253C	S000003485	PMID: 18439903	SGD_REF: S000126287	pup2-ts	heat sensitivity: increased
+Yeast_YGR253C_pup2-ts	YGR253C	S000003485	PMID: 20174551	SGD_REF: S000133286	pup2-ts	resistance to chemicals: decreased
+Yeast_YGR253C_pup2-ts	YGR253C	S000003485	PMID: 20174551	SGD_REF: S000133286	pup2-ts	resistance to chemicals: decreased
+Yeast_YGR253C_pup2-ts	YGR253C	S000003485	PMID: 20174551	SGD_REF: S000133286	pup2-ts	colony sectoring: increased
+Yeast_YGR277C_cab4-ts	YGR277C	S000003509	PMID: 18439903	SGD_REF: S000126287	cab4-ts	heat sensitivity: increased
+Yeast_YGR278W_cwc22-ts	YGR278W	S000003510	PMID: 18439903	SGD_REF: S000126287	cwc22-ts	heat sensitivity: increased
+Yeast_YHR019C_ded81-ts	YHR019C	S000001061	PMID: 18439903	SGD_REF: S000126287	ded81-ts	heat sensitivity: increased
+Yeast_YHR020W_yhr020w-ts	YHR020W	S000001062	PMID: 18439903	SGD_REF: S000126287	yhr020w-ts	colony sectoring: increased
+Yeast_YHR020W_yhr020w-ts	YHR020W	S000001062	PMID: 18439903	SGD_REF: S000126287	yhr020w-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR020W_yhr020w-ts	YHR020W	S000001062	PMID: 18439903	SGD_REF: S000126287	yhr020w-ts	heat sensitivity: increased
+Yeast_YHR020W_yhr020w-ts	YHR020W	S000001062	PMID: 18439903	SGD_REF: S000126287	yhr020w-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR036W_brl1-ts	YHR036W	S000001078	PMID: 18439903	SGD_REF: S000126287	brl1-ts	heat sensitivity: increased
+Yeast_YHR040W_bcd1-ts	YHR040W	S000001082	PMID: 18439903	SGD_REF: S000126287	bcd1-ts	heat sensitivity: increased
+Yeast_YHR058C_med6-ts2(sixmissensemutations:Q49L,I68L,L94P,F125Y,R132G,F194L)	YHR058C	S000001100	PMID: 9234719	SGD_REF: S000049379	med6-ts2 (six missense mutations: Q49L, I68L, L94P, F125Y, R132G, F194L)	heat sensitivity: increased
+Yeast_YHR058C_med6-ts	YHR058C	S000001100	PMID: 18439903	SGD_REF: S000126287	med6-ts	heat sensitivity: increased
+Yeast_YHR065C_rrp3-ts	YHR065C	S000001107	PMID: 21552543	SGD_REF: S000145356	rrp3-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR070W_trm5-ts	YHR070W	S000001112	PMID: 20174551	SGD_REF: S000133286	trm5-ts	colony sectoring: increased
+Yeast_YHR070W_trm5-ts	YHR070W	S000001112	PMID: 18439903	SGD_REF: S000126287	trm5-ts	heat sensitivity: increased
+Yeast_YHR085W_ipi1-ts	YHR085W	S000001127	PMID: 18439903	SGD_REF: S000126287	ipi1-ts	heat sensitivity: increased
+Yeast_YHR085W_ipi1-td(temperature-inducibledegron)	YHR085W	S000001127	PMID: 22421151	SGD_REF: S000148858	ipi1-td (temperature-inducible degron)	chromosome/plasmid maintenance: abnormal
+Yeast_YHR088W_rpf1-ts	YHR088W	S000001130	PMID: 18439903	SGD_REF: S000126287	rpf1-ts	heat sensitivity: increased
+Yeast_YHR101C_big1-ts	YHR101C	S000001143	PMID: 18439903	SGD_REF: S000126287	big1-ts	heat sensitivity: increased
+Yeast_YHR101C_big1-ts	YHR101C	S000001143	PMID: 20174551	SGD_REF: S000133286	big1-ts	colony sectoring: increased
+Yeast_YHR118C_orc6-ts	YHR118C	S000001160	PMID: 18439903	SGD_REF: S000126287	orc6-ts	heat sensitivity: increased
+Yeast_YHR118C_orc6-ts	YHR118C	S000001160	PMID: 20174551	SGD_REF: S000133286	orc6-ts	colony sectoring: increased
+Yeast_YHR118C_orc6-ts	YHR118C	S000001160	PMID: 21552543	SGD_REF: S000145356	orc6-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR122W_yhr122w-ts	YHR122W	S000001164	PMID: 18439903	SGD_REF: S000126287	yhr122w-ts	colony sectoring: increased
+Yeast_YHR122W_yhr122w-ts	YHR122W	S000001164	PMID: 18439903	SGD_REF: S000126287	yhr122w-ts	heat sensitivity: increased
+Yeast_YHR122W_yhr122w-ts	YHR122W	S000001164	PMID: 18439903	SGD_REF: S000126287	yhr122w-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR122W_yhr122w-ts	YHR122W	S000001164	PMID: 18439903	SGD_REF: S000126287	yhr122w-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR164C_dna2-2(tsallele)	YHR164C	S000001207	PMID: 23390603	SGD_REF: S000151997	dna2-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YHR172W_spc97-ts	YHR172W	S000001215	PMID: 21552543	SGD_REF: S000145356	spc97-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YHR186C_kog1-1(tsallele)	YHR186C	S000001229	PMID: 23390603	SGD_REF: S000151997	kog1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YHR188C_gpi16-ts	YHR188C	S000001231	PMID: 18439903	SGD_REF: S000126287	gpi16-ts	heat sensitivity: increased
+Yeast_YHR190W_erg9-ts	YHR190W	S000001233	PMID: 18439903	SGD_REF: S000126287	erg9-ts	heat sensitivity: increased
+Yeast_YHR196W_utp9-ts	YHR196W	S000001239	PMID: 18439903	SGD_REF: S000126287	utp9-ts	heat sensitivity: increased
+Yeast_YHR197W_rix1-ts	YHR197W	S000001240	PMID: 18439903	SGD_REF: S000126287	rix1-ts	heat sensitivity: increased
+Yeast_YHR197W_rix1-(ipi2-td)(temperature-inducibledegron)	YHR197W	S000001240	PMID: 22421151	SGD_REF: S000148858	rix1-(ipi2-td) (temperature-inducible degron)	chromosome/plasmid maintenance: abnormal
+Yeast_YIL022W_tim44-ts	YIL022W	S000001284	PMID: 18439903	SGD_REF: S000126287	tim44-ts	heat sensitivity: increased
+Yeast_YIL061C_snp1-ts	YIL061C	S000001323	PMID: 21552543	SGD_REF: S000145356	snp1-ts	colony sectoring: increased
+Yeast_YIL083C_cab2-ts	YIL083C	S000001345	PMID: 18439903	SGD_REF: S000126287	cab2-ts	heat sensitivity: increased
+Yeast_YIL104C_shq1-ts	YIL104C	S000001366	PMID: 18439903	SGD_REF: S000126287	shq1-ts	heat sensitivity: increased
+Yeast_YIL118W_rho3-Ser228(tsallele)	YIL118W	S000001380	PMID: 23390603	SGD_REF: S000151997	rho3-Ser228 (ts allele)	resistance to chemicals: decreased
+Yeast_YIL126W_sth1-2(tsallele)	YIL126W	S000001388	PMID: 23390603	SGD_REF: S000151997	sth1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YIL143C_ssl2-ts	YIL143C	S000001405	PMID: 21552543	SGD_REF: S000145356	ssl2-ts	colony sectoring: increased
+Yeast_YIL147C_sln1-ts4	YIL147C	S000001409	PMID: 19477922	SGD_REF: S000130464	sln1-ts4	cell cycle progression in S phase: delayed
+Yeast_YIR008C_pri1-ts	YIR008C	S000001447	PMID: 21552543	SGD_REF: S000145356	pri1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YIR011C_sts1-ts	YIR011C	S000001450	PMID: 18439903	SGD_REF: S000126287	sts1-ts	heat sensitivity: increased
+Yeast_YIR011C_sts1-ts	YIR011C	S000001450	PMID: 20174551	SGD_REF: S000133286	sts1-ts	colony sectoring: increased
+Yeast_YIR012W_sqt1-201(tsallele)	YIR012W	S000001451	PMID: 23390603	SGD_REF: S000151997	sqt1-201 (ts allele)	resistance to chemicals: decreased
+Yeast_YJL010C_nop9-ts	YJL010C	S000003547	PMID: 18439903	SGD_REF: S000126287	nop9-ts	heat sensitivity: increased
+Yeast_YJL019W_mps3-1(tsallele)	YJL019W	S000003556	PMID: 23390603	SGD_REF: S000151997	mps3-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YJL019W_mps3-7(tsallele)	YJL019W	S000003556	PMID: 23390603	SGD_REF: S000151997	mps3-7 (ts allele)	resistance to chemicals: decreased
+Yeast_YJL019W_mps3-7(tsallele)	YJL019W	S000003556	PMID: 23390603	SGD_REF: S000151997	mps3-7 (ts allele)	resistance to chemicals: decreased
+Yeast_YJL025W_rrn7-ts	YJL025W	S000003562	PMID: 18439903	SGD_REF: S000126287	rrn7-ts	heat sensitivity: increased
+Yeast_YJL031C_bet4-ts	YJL031C	S000003568	PMID: 21552543	SGD_REF: S000145356	bet4-ts	colony sectoring: increased
+Yeast_YJL035C_tad2-ts	YJL035C	S000003572	PMID: 18439903	SGD_REF: S000126287	tad2-ts	heat sensitivity: increased
+Yeast_YJL069C_utp18-ts	YJL069C	S000003605	PMID: 18439903	SGD_REF: S000126287	utp18-ts	heat sensitivity: increased
+Yeast_YJL069C_utp18-ts	YJL069C	S000003605	PMID: 18439903	SGD_REF: S000126287	utp18-ts	RNA accumulation: decreased
+Yeast_YJL072C_psf2-ts	YJL072C	S000003608	PMID: 18439903	SGD_REF: S000126287	psf2-ts	colony sectoring: increased
+Yeast_YJL072C_psf2-ts	YJL072C	S000003608	PMID: 18439903	SGD_REF: S000126287	psf2-ts	viability: decreased
+Yeast_YJL072C_psf2-ts	YJL072C	S000003608	PMID: 18439903	SGD_REF: S000126287	psf2-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YJL072C_psf2-ts	YJL072C	S000003608	PMID: 18439903	SGD_REF: S000126287	psf2-ts	heat sensitivity: increased
+Yeast_YJL081C_arp4-G161D(tsallele)	YJL081C	S000003617	PMID: 23390603	SGD_REF: S000151997	arp4-G161D (ts allele)	resistance to chemicals: decreased
+Yeast_YJL097W_phs1-ts	YJL097W	S000003633	PMID: 18439903	SGD_REF: S000126287	phs1-ts	heat sensitivity: increased
+Yeast_YJL167W_erg20-ts	YJL167W	S000003703	PMID: 21552543	SGD_REF: S000145356	erg20-ts	colony sectoring: increased
+Yeast_YJL194W_cdc6-1(tsallele)	YJL194W	S000003730	PMID: 23390603	SGD_REF: S000151997	cdc6-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YJR002W_mpp10-ts	YJR002W	S000003762	PMID: 18439903	SGD_REF: S000126287	mpp10-ts	heat sensitivity: increased
+Yeast_YJR006W_pol31-ts	YJR006W	S000003766	PMID: 24336748	SGD_REF: S000156475	pol31-ts	mutation frequency: increased
+Yeast_YJR006W_pol31-ts	YJR006W	S000003766	PMID: 21552543	SGD_REF: S000145356	pol31-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YJR006W_pol31-ts	YJR006W	S000003766	PMID: 21552543	SGD_REF: S000145356	pol31-ts	colony sectoring: increased
+Yeast_YJR006W_pol31-ts	YJR006W	S000003766	PMID: 18439903	SGD_REF: S000126287	pol31-ts	heat sensitivity: increased
+Yeast_YJR006W_hys2-ts	YJR006W	S000003766	PMID: 25721128	SGD_REF: S000179429	hys2-ts	protein/peptide accumulation: increased
+Yeast_YJR042W_nup85-ts	YJR042W	S000003803	PMID: 21552543	SGD_REF: S000145356	nup85-ts	colony sectoring: increased
+Yeast_YJR042W_nup85-ts	YJR042W	S000003803	PMID: 21552543	SGD_REF: S000145356	nup85-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YJR046W_tah11-ts	YJR046W	S000003807	PMID: 21552543	SGD_REF: S000145356	tah11-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YJR057W_cdc8-1(tsallele)	YJR057W	S000003818	PMID: 23390603	SGD_REF: S000151997	cdc8-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YJR057W_cdc8-2(tsallele)	YJR057W	S000003818	PMID: 23390603	SGD_REF: S000151997	cdc8-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-G15C(tsallele)	YJR065C	S000003826	PMID: 23390603	SGD_REF: S000151997	arp3-G15C (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-G15C(tsallele)	YJR065C	S000003826	PMID: 23390603	SGD_REF: S000151997	arp3-G15C (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-G302Y(tsallele)	YJR065C	S000003826	PMID: 23390603	SGD_REF: S000151997	arp3-G302Y (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-H161A(tsallele)	YJR065C	S000003826	PMID: 23390603	SGD_REF: S000151997	arp3-H161A (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-H161A(tsallele)	YJR065C	S000003826	PMID: 23390603	SGD_REF: S000151997	arp3-H161A (ts allele)	resistance to chemicals: decreased
+Yeast_YJR065C_arp3-G15C(tsallele)	YJR065C	S000003826	PMID: 25721128	SGD_REF: S000179429	arp3-G15C (ts allele)	protein/peptide accumulation: increased
+Yeast_YJR072C_npa3-ts	YJR072C	S000003833	PMID: 18439903	SGD_REF: S000126287	npa3-ts	heat sensitivity: increased
+Yeast_YJR076C_cdc11-5(tsallele)	YJR076C	S000003837	PMID: 23390603	SGD_REF: S000151997	cdc11-5 (ts allele)	resistance to chemicals: decreased
+Yeast_YJR093C_fip1-ts	YJR093C	S000003853	PMID: 21552543	SGD_REF: S000145356	fip1-ts	colony sectoring: increased
+Yeast_YJR093C_fip1-ts	YJR093C	S000003853	PMID: 18439903	SGD_REF: S000126287	fip1-ts	heat sensitivity: increased
+Yeast_YKL009W_mrt4-ts1189	YKL009W	S000001492	PMID: 10471698	SGD_REF: S000054755	mrt4-ts1189	RNA accumulation: increased
+Yeast_YKL012W_prp40-ts	YKL012W	S000001495	PMID: 18439903	SGD_REF: S000126287	prp40-ts	heat sensitivity: increased
+Yeast_YKL013C_arc19-ts	YKL013C	S000001496	PMID: 21552543	SGD_REF: S000145356	arc19-ts	colony sectoring: increased
+Yeast_YKL018W_swd2-ts1(tsallele)	YKL018W	S000001501	PMID: 23390603	SGD_REF: S000151997	swd2-ts1 (ts allele)	resistance to chemicals: decreased
+Yeast_YKL021C_mak11-ts	YKL021C	S000001504	PMID: 18439903	SGD_REF: S000126287	mak11-ts	heat sensitivity: increased
+Yeast_YKL033W_tti1-ts	YKL033W	S000001516	PMID: 18439903	SGD_REF: S000126287	tti1-ts	RNA accumulation: decreased
+Yeast_YKL033W_tti1-ts	YKL033W	S000001516	PMID: 18439903	SGD_REF: S000126287	tti1-ts	heat sensitivity: increased
+Yeast_YKL035W_ugp1-ts	YKL035W	S000001518	PMID: 18439903	SGD_REF: S000126287	ugp1-ts	heat sensitivity: increased
+Yeast_YKL035W_ugp1-ts	YKL035W	S000001518	PMID: 20174551	SGD_REF: S000133286	ugp1-ts	colony sectoring: increased
+Yeast_YKL078W_dhr2-ts	YKL078W	S000001561	PMID: 18439903	SGD_REF: S000126287	dhr2-ts	heat sensitivity: increased
+Yeast_YKL088W_cab3-ts	YKL088W	S000001571	PMID: 18439903	SGD_REF: S000126287	cab3-ts	heat sensitivity: increased
+Yeast_YKL089W_mif2-3(tsallele)	YKL089W	S000001572	PMID: 23390603	SGD_REF: S000151997	mif2-3 (ts allele)	resistance to chemicals: decreased
+Yeast_YKL095W_yju2-ts	YKL095W	S000001578	PMID: 18439903	SGD_REF: S000126287	yju2-ts	heat sensitivity: increased
+Yeast_YKL144C_rpc25-ts	YKL144C	S000001627	PMID: 18439903	SGD_REF: S000126287	rpc25-ts	heat sensitivity: increased
+Yeast_YKL173W_snu114-60(tsallele)	YKL173W	S000001656	PMID: 23390603	SGD_REF: S000151997	snu114-60 (ts allele)	resistance to chemicals: decreased
+Yeast_YKL173W_snu114-40(tsallele)	YKL173W	S000001656	PMID: 23390603	SGD_REF: S000151997	snu114-40 (ts allele)	resistance to chemicals: decreased
+Yeast_YKL195W_mia40-ts	YKL195W	S000001678	PMID: 18439903	SGD_REF: S000126287	mia40-ts	heat sensitivity: increased
+Yeast_YKL196C_ykt6-ts	YKL196C	S000001679	PMID: 18439903	SGD_REF: S000126287	ykt6-ts	heat sensitivity: increased
+Yeast_YKL203C_tor2-29(tsallele)	YKL203C	S000001686	PMID: 23390603	SGD_REF: S000151997	tor2-29 (ts allele)	resistance to chemicals: decreased
+Yeast_YKR022C_ntr2-ts	YKR022C	S000001730	PMID: 18439903	SGD_REF: S000126287	ntr2-ts	RNA accumulation: decreased
+Yeast_YKR022C_ntr2-ts	YKR022C	S000001730	PMID: 18439903	SGD_REF: S000126287	ntr2-ts	heat sensitivity: increased
+Yeast_YKR025W_rpc37-ts	YKR025W	S000001733	PMID: 18439903	SGD_REF: S000126287	rpc37-ts	heat sensitivity: increased
+Yeast_YKR025W_rpc37-ts	YKR025W	S000001733	PMID: 21552543	SGD_REF: S000145356	rpc37-ts	colony sectoring: increased
+Yeast_YKR038C_kae1-ts	YKR038C	S000001746	PMID: 18439903	SGD_REF: S000126287	kae1-ts	heat sensitivity: increased
+Yeast_YKR038C_kae1-ts	YKR038C	S000001746	PMID: 18439903	SGD_REF: S000126287	kae1-ts	colony sectoring: increased
+Yeast_YKR063C_las1-ts	YKR063C	S000001771	PMID: 18439903	SGD_REF: S000126287	las1-ts	heat sensitivity: increased
+Yeast_YKR068C_bet3-ts	YKR068C	S000001776	PMID: 18439903	SGD_REF: S000126287	bet3-ts	heat sensitivity: increased
+Yeast_YKR071C_dre2-ts	YKR071C	S000001779	PMID: 18439903	SGD_REF: S000126287	dre2-ts	colony sectoring: increased
+Yeast_YKR071C_dre2-ts	YKR071C	S000001779	PMID: 18439903	SGD_REF: S000126287	dre2-ts	heat sensitivity: increased
+Yeast_YKR079C_trz1-ts	YKR079C	S000001787	PMID: 18439903	SGD_REF: S000126287	trz1-ts	heat sensitivity: increased
+Yeast_YKR081C_rpf2-ts	YKR081C	S000001789	PMID: 18439903	SGD_REF: S000126287	rpf2-ts	heat sensitivity: increased
+Yeast_YKR086W_prp16-ts	YKR086W	S000001794	PMID: 25721128	SGD_REF: S000179429	prp16-ts	protein/peptide accumulation: decreased
+Yeast_YKR086W_prp16-ts(tsallele)	YKR086W	S000001794	PMID: 23390603	SGD_REF: S000151997	prp16-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YLL011W_sof1-ts	YLL011W	S000003934	PMID: 18439903	SGD_REF: S000126287	sof1-ts	heat sensitivity: increased
+Yeast_YLL035W_grc3-ts	YLL035W	S000003958	PMID: 18439903	SGD_REF: S000126287	grc3-ts	heat sensitivity: increased
+Yeast_YLR002C_noc3-td(temperature-sensitivedegron)	YLR002C	S000003992	PMID: 12110182	SGD_REF: S000070305	noc3-td (temperature-sensitive degron)	protein/peptide distribution: absent
+Yeast_YLR002C_noc3-td(temperature-sensitivedegron)	YLR002C	S000003992	PMID: 12110182	SGD_REF: S000070305	noc3-td (temperature-sensitive degron)	cell cycle progression through the G1/S phase transition: delayed
+Yeast_YLR002C_noc3-td(temperature-sensitivedegron)	YLR002C	S000003992	PMID: 12110182	SGD_REF: S000070305	noc3-td (temperature-sensitive degron)	chromosome/plasmid maintenance: decreased
+Yeast_YLR002C_noc3-ts	YLR002C	S000003992	PMID: 18439903	SGD_REF: S000126287	noc3-ts	heat sensitivity: increased
+Yeast_YLR005W_ssl1-ts	YLR005W	S000003995	PMID: 18439903	SGD_REF: S000126287	ssl1-ts	heat sensitivity: increased
+Yeast_YLR005W_ssl1-ts	YLR005W	S000003995	PMID: 20174551	SGD_REF: S000133286	ssl1-ts	colony sectoring: increased
+Yeast_YLR007W_nse1-ts	YLR007W	S000003997	PMID: 18439903	SGD_REF: S000126287	nse1-ts	heat sensitivity: increased
+Yeast_YLR007W_nse1-16(tsallele)	YLR007W	S000003997	PMID: 23390603	SGD_REF: S000151997	nse1-16 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR022C_sdo1-ts	YLR022C	S000004012	PMID: 18439903	SGD_REF: S000126287	sdo1-ts	vegetative growth: decreased
+Yeast_YLR033W_rsc58-ts	YLR033W	S000004023	PMID: 18439903	SGD_REF: S000126287	rsc58-ts	heat sensitivity: increased
+Yeast_YLR045C_stu2-10(tsallele)	YLR045C	S000004035	PMID: 23390603	SGD_REF: S000151997	stu2-10 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR051C_fcf2-ts	YLR051C	S000004041	PMID: 18439903	SGD_REF: S000126287	fcf2-ts	heat sensitivity: increased
+Yeast_YLR060W_frs1-ts	YLR060W	S000004050	PMID: 20174551	SGD_REF: S000133286	frs1-ts	colony sectoring: increased
+Yeast_YLR060W_frs1-ts	YLR060W	S000004050	PMID: 18439903	SGD_REF: S000126287	frs1-ts	heat sensitivity: increased
+Yeast_YLR100W_erg27-ts	YLR100W	S000004090	PMID: 18439903	SGD_REF: S000126287	erg27-ts	heat sensitivity: increased
+Yeast_YLR115W_cft2-ts	YLR115W	S000004105	PMID: 21552543	SGD_REF: S000145356	cft2-ts	colony sectoring: increased
+Yeast_YLR115W_cft2-ts	YLR115W	S000004105	PMID: 18439903	SGD_REF: S000126287	cft2-ts	heat sensitivity: increased
+Yeast_YLR116W_msl5-ts	YLR116W	S000004106	PMID: 20174551	SGD_REF: S000133286	msl5-ts	colony sectoring: increased
+Yeast_YLR116W_msl5-ts	YLR116W	S000004106	PMID: 18439903	SGD_REF: S000126287	msl5-ts	heat sensitivity: increased
+Yeast_YLR117C_clf1-1(tsallele)	YLR117C	S000004107	PMID: 23390603	SGD_REF: S000151997	clf1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR129W_dip2-ts	YLR129W	S000004119	PMID: 18439903	SGD_REF: S000126287	dip2-ts	heat sensitivity: increased
+Yeast_YLR132C_usb1-ts	YLR132C	S000004122	PMID: 18439903	SGD_REF: S000126287	usb1-ts	heat sensitivity: increased
+Yeast_YLR141W_rrn5-ts	YLR141W	S000004131	PMID: 18439903	SGD_REF: S000126287	rrn5-ts	heat sensitivity: increased
+Yeast_YLR145W_rmp1-ts	YLR145W	S000004135	PMID: 25721128	SGD_REF: S000179429	rmp1-ts	protein/peptide accumulation: decreased
+Yeast_YLR145W_rmp1-ts	YLR145W	S000004135	PMID: 18439903	SGD_REF: S000126287	rmp1-ts	heat sensitivity: increased
+Yeast_YLR147C_smd3-ts	YLR147C	S000004137	PMID: 18439903	SGD_REF: S000126287	smd3-ts	heat sensitivity: increased
+Yeast_YLR163C_mas1-1(tsallele)	YLR163C	S000004153	PMID: 23390603	SGD_REF: S000151997	mas1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR175W_cbf5-ts	YLR175W	S000004165	PMID: 18439903	SGD_REF: S000126287	cbf5-ts	heat sensitivity: increased
+Yeast_YLR186W_emg1-ts	YLR186W	S000004176	PMID: 18439903	SGD_REF: S000126287	emg1-ts	heat sensitivity: increased
+Yeast_YLR196W_pwp1-ts	YLR196W	S000004186	PMID: 18439903	SGD_REF: S000126287	pwp1-ts	heat sensitivity: increased
+Yeast_YLR196W_pwp1-ts	YLR196W	S000004186	PMID: 20174551	SGD_REF: S000133286	pwp1-ts	colony sectoring: increased
+Yeast_YLR197W_nop56-(sik1-ts)	YLR197W	S000004187	PMID: 18439903	SGD_REF: S000126287	nop56-(sik1-ts)	heat sensitivity: increased
+Yeast_YLR259C_hsp60-ts(G319D)	YLR259C	S000004249	PMID: 9774331	SGD_REF: S000053334	hsp60-ts (G319D)	inviable
+Yeast_YLR268W_sec22-3(tsallele)	YLR268W	S000004258	PMID: 23390603	SGD_REF: S000151997	sec22-3 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR276C_dbp9-ts	YLR276C	S000004266	PMID: 18439903	SGD_REF: S000126287	dbp9-ts	heat sensitivity: increased
+Yeast_YLR277C_ysh1-ts	YLR277C	S000004267	PMID: 18439903	SGD_REF: S000126287	ysh1-ts	heat sensitivity: increased
+Yeast_YLR291C_gcd7-ts	YLR291C	S000004282	PMID: 18439903	SGD_REF: S000126287	gcd7-ts	heat sensitivity: increased
+Yeast_YLR291C_gcd7-ts	YLR291C	S000004282	PMID: 20174551	SGD_REF: S000133286	gcd7-ts	colony sectoring: increased
+Yeast_YLR298C_yhc1-7(tsallele)	YLR298C	S000004289	PMID: 23390603	SGD_REF: S000151997	yhc1-7 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR298C_yhc1-7(tsallele)	YLR298C	S000004289	PMID: 23390603	SGD_REF: S000151997	yhc1-7 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR310C_cdc25-1(tsallele)	YLR310C	S000004301	PMID: 23390603	SGD_REF: S000151997	cdc25-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR316C_tad3-ts	YLR316C	S000004308	PMID: 18439903	SGD_REF: S000126287	tad3-ts	heat sensitivity: increased
+Yeast_YLR317W_ylr317w-ts	YLR317W	S000004309	PMID: 18439903	SGD_REF: S000126287	ylr317w-ts	heat sensitivity: increased
+Yeast_YLR340W_rpp0-ts	YLR340W	S000004332	PMID: 18439903	SGD_REF: S000126287	rpp0-ts	heat sensitivity: increased
+Yeast_YLR347C_kap95-ts	YLR347C	S000004339	PMID: 21463458	SGD_REF: S000144972	kap95-ts	nuclear import: decreased
+Yeast_YLR378C_sec61-2(tsallele)	YLR378C	S000004370	PMID: 23390603	SGD_REF: S000151997	sec61-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR383W_smc6-9(tsallele)	YLR383W	S000004375	PMID: 23390603	SGD_REF: S000151997	smc6-9 (ts allele)	resistance to chemicals: decreased
+Yeast_YLR424W_spp382-ts	YLR424W	S000004416	PMID: 18439903	SGD_REF: S000126287	spp382-ts	heat sensitivity: increased
+Yeast_YLR424W_spp382-ts	YLR424W	S000004416	PMID: 20174551	SGD_REF: S000133286	spp382-ts	colony sectoring: increased
+Yeast_YLR440C_sec39-ts	YLR440C	S000004432	PMID: 18439903	SGD_REF: S000126287	sec39-ts	heat sensitivity: increased
+Yeast_YML023C_nse5-ts/nse5-ts	YML023C	S000004485	PMID: 18439903	SGD_REF: S000126287	nse5-ts/nse5-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YML023C_nse5-ts	YML023C	S000004485	PMID: 21552543	SGD_REF: S000145356	nse5-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YML023C_nse5-ts	YML023C	S000004485	PMID: 18439903	SGD_REF: S000126287	nse5-ts	heat sensitivity: increased
+Yeast_YML065W_orc1-ts	YML065W	S000004530	PMID: 18439903	SGD_REF: S000126287	orc1-ts	heat sensitivity: increased
+Yeast_YML065W_orc1-ts	YML065W	S000004530	PMID: 20174551	SGD_REF: S000133286	orc1-ts	colony sectoring: increased
+Yeast_YML065W_orc1-ts	YML065W	S000004530	PMID: 21552543	SGD_REF: S000145356	orc1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YML069W_pob3-Q308K(tsallele)	YML069W	S000004534	PMID: 23390603	SGD_REF: S000151997	pob3-Q308K (ts allele)	resistance to chemicals: decreased
+Yeast_YML077W_bet5-ts	YML077W	S000004542	PMID: 18439903	SGD_REF: S000126287	bet5-ts	heat sensitivity: increased
+Yeast_YML077W_bet5-ts	YML077W	S000004542	PMID: 21552543	SGD_REF: S000145356	bet5-ts	colony sectoring: increased
+Yeast_YML092C_pre8-ts	YML092C	S000004557	PMID: 18439903	SGD_REF: S000126287	pre8-ts	heat sensitivity: increased
+Yeast_YML125C_pga3-ts	YML125C	S000004594	PMID: 18439903	SGD_REF: S000126287	pga3-ts	heat sensitivity: increased
+Yeast_YML126C_erg13-ts	YML126C	S000004595	PMID: 18439903	SGD_REF: S000126287	erg13-ts	heat sensitivity: increased
+Yeast_YML127W_rsc9-ts	YML127W	S000004596	PMID: 18439903	SGD_REF: S000126287	rsc9-ts	heat sensitivity: increased
+Yeast_YMR043W_mcm1-ts	YMR043W	S000004646	PMID: 20174551	SGD_REF: S000133286	mcm1-ts	colony sectoring: increased
+Yeast_YMR043W_mcm1-ts	YMR043W	S000004646	PMID: 18439903	SGD_REF: S000126287	mcm1-ts	heat sensitivity: increased
+Yeast_YMR049C_erb1-ts	YMR049C	S000004652	PMID: 18439903	SGD_REF: S000126287	erb1-ts	heat sensitivity: increased
+Yeast_YMR061W_rna14-ts	YMR061W	S000004665	PMID: 18439903	SGD_REF: S000126287	rna14-ts	heat sensitivity: increased
+Yeast_YMR098C_ATP25-ts-1	YMR098C	S000004704	PMID: 18216280	SGD_REF: S000125287	ATP25-ts-1	respiratory growth: decreased
+Yeast_YMR098C_ATP25-ts-1	YMR098C	S000004704	PMID: 18216280	SGD_REF: S000125287	ATP25-ts-1	RNA accumulation: decreased
+Yeast_YMR134W_ymr134w-ts	YMR134W	S000004741	PMID: 18439903	SGD_REF: S000126287	ymr134w-ts	heat sensitivity: increased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	chemical compound accumulation: decreased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	respiratory growth: decreased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	respiratory metabolism: decreased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	chemical compound accumulation: increased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	oxidative stress resistance: decreased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	oxidative stress resistance: decreased
+Yeast_YMR134W_erg29-(ymr134w-ts)	YMR134W	S000004741	PMID: 23892078	SGD_REF: S000154567	erg29-(ymr134w-ts)	protein activity: increased
+Yeast_YMR149W_swp1-ts	YMR149W	S000004757	PMID: 18439903	SGD_REF: S000126287	swp1-ts	heat sensitivity: increased
+Yeast_YMR150C_imp1-(pet-ts2858)	YMR150C	S000004758	PMID: 6313350	SGD_REF: S000054375	imp1-(pet-ts2858)	protein/peptide accumulation: increased
+Yeast_YMR150C_imp1-(pet-ts2858)	YMR150C	S000004758	PMID: 3015596	SGD_REF: S000060904	imp1-(pet-ts2858)	protein/peptide accumulation: increased
+Yeast_YMR197C_vti1-ts(vti1-21throughvti1-25)	YMR197C	S000004810	PMID: 9398683	SGD_REF: S000046284	vti1-ts (vti1-21 through vti1-25)	protein transport: abnormal
+Yeast_YMR200W_rot1-ts	YMR200W	S000004813	PMID: 18439903	SGD_REF: S000126287	rot1-ts	heat sensitivity: increased
+Yeast_YMR208W_erg12-ts	YMR208W	S000004821	PMID: 18439903	SGD_REF: S000126287	erg12-ts	heat sensitivity: increased
+Yeast_YMR211W_dml1-ts	YMR211W	S000004824	PMID: 18439903	SGD_REF: S000126287	dml1-ts	heat sensitivity: increased
+Yeast_YMR213W_cef1-13(tsallele)	YMR213W	S000004826	PMID: 23390603	SGD_REF: S000151997	cef1-13 (ts allele)	resistance to chemicals: decreased
+Yeast_YMR218C_trs130-ts	YMR218C	S000004831	PMID: 18439903	SGD_REF: S000126287	trs130-ts	heat sensitivity: increased
+Yeast_YMR218C_trs130-ts	YMR218C	S000004831	PMID: 20174551	SGD_REF: S000133286	trs130-ts	colony sectoring: increased
+Yeast_YMR227C_taf7-ts1	YMR227C	S000004840	PMID: 21552543	SGD_REF: S000145356	taf7-ts1	colony sectoring: increased
+Yeast_YMR260C_tif11-ts	YMR260C	S000004873	PMID: 18439903	SGD_REF: S000126287	tif11-ts	heat sensitivity: increased
+Yeast_YMR281W_gpi12-ts	YMR281W	S000004894	PMID: 18439903	SGD_REF: S000126287	gpi12-ts	heat sensitivity: increased
+Yeast_YMR288W_hsh155-ts	YMR288W	S000004901	PMID: 20174551	SGD_REF: S000133286	hsh155-ts	colony sectoring: increased
+Yeast_YMR288W_hsh155-ts	YMR288W	S000004901	PMID: 18439903	SGD_REF: S000126287	hsh155-ts	heat sensitivity: increased
+Yeast_YMR290C_has1-ts	YMR290C	S000004903	PMID: 18439903	SGD_REF: S000126287	has1-ts	heat sensitivity: increased
+Yeast_YMR298W_lip1-ts	YMR298W	S000004913	PMID: 18439903	SGD_REF: S000126287	lip1-ts	heat sensitivity: increased
+Yeast_YMR308C_pse1-34(tsallele)	YMR308C	S000004925	PMID: 23390603	SGD_REF: S000151997	pse1-34 (ts allele)	resistance to chemicals: decreased
+Yeast_YMR308C_pse1-34(tsallele)	YMR308C	S000004925	PMID: 23390603	SGD_REF: S000151997	pse1-34 (ts allele)	resistance to chemicals: decreased
+Yeast_YMR308C_pse1-41(tsallele)	YMR308C	S000004925	PMID: 23390603	SGD_REF: S000151997	pse1-41 (ts allele)	resistance to chemicals: decreased
+Yeast_YMR314W_pre5-ts	YMR314W	S000004931	PMID: 18439903	SGD_REF: S000126287	pre5-ts	heat sensitivity: increased
+Yeast_YMR314W_pre5-ts	YMR314W	S000004931	PMID: 20174551	SGD_REF: S000133286	pre5-ts	colony sectoring: increased
+Yeast_YMR314W_pre5-ts	YMR314W	S000004931	PMID: 20174551	SGD_REF: S000133286	pre5-ts	resistance to chemicals: decreased
+Yeast_YMR314W_pre5-ts	YMR314W	S000004931	PMID: 20174551	SGD_REF: S000133286	pre5-ts	resistance to chemicals: decreased
+Yeast_YNL002C_rlp7-ts	YNL002C	S000004947	PMID: 20174551	SGD_REF: S000133286	rlp7-ts	colony sectoring: increased
+Yeast_YNL002C_rlp7-ts	YNL002C	S000004947	PMID: 18439903	SGD_REF: S000126287	rlp7-ts	heat sensitivity: increased
+Yeast_YNL006W_lst8-6(tsallele)	YNL006W	S000004951	PMID: 23390603	SGD_REF: S000151997	lst8-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL006W_lst8-6(tsallele)	YNL006W	S000004951	PMID: 23390603	SGD_REF: S000151997	lst8-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL007C_sis1-ts	YNL007C	S000004952	PMID: 18439903	SGD_REF: S000126287	sis1-ts	heat sensitivity: increased
+Yeast_YNL038W_gpi15-ts	YNL038W	S000004983	PMID: 18439903	SGD_REF: S000126287	gpi15-ts	heat sensitivity: increased
+Yeast_YNL102W_pol1-17(tsallele)	YNL102W	S000005046	PMID: 23390603	SGD_REF: S000151997	pol1-17 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL102W_pol1-ts	YNL102W	S000005046	PMID: 24336748	SGD_REF: S000156475	pol1-ts	mutation frequency: increased
+Yeast_YNL102W_pol1-ts	YNL102W	S000005046	PMID: 25721128	SGD_REF: S000179429	pol1-ts	protein/peptide accumulation: increased
+Yeast_YNL126W_spc98-ts	YNL126W	S000005070	PMID: 18439903	SGD_REF: S000126287	spc98-ts	heat sensitivity: increased
+Yeast_YNL126W_spc98-ts	YNL126W	S000005070	PMID: 21552543	SGD_REF: S000145356	spc98-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YNL126W_spc98-ts	YNL126W	S000005070	PMID: 20174551	SGD_REF: S000133286	spc98-ts	colony sectoring: increased
+Yeast_YNL131W_tom22-ts	YNL131W	S000005075	PMID: 21552543	SGD_REF: S000145356	tom22-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YNL131W_tom22-ts	YNL131W	S000005075	PMID: 18439903	SGD_REF: S000126287	tom22-ts	heat sensitivity: increased
+Yeast_YNL132W_kre33-ts	YNL132W	S000005076	PMID: 21552543	SGD_REF: S000145356	kre33-ts	colony sectoring: increased
+Yeast_YNL138W_srv2-ts	YNL138W	S000005082	PMID: 21552543	SGD_REF: S000145356	srv2-ts	colony sectoring: increased
+Yeast_YNL152W_inn1-ts	YNL152W	S000005096	PMID: 18439903	SGD_REF: S000126287	inn1-ts	heat sensitivity: increased
+Yeast_YNL152W_inn1-ts	YNL152W	S000005096	PMID: 18439903	SGD_REF: S000126287	inn1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YNL152W_inn1-ts/inn1-ts	YNL152W	S000005096	PMID: 18439903	SGD_REF: S000126287	inn1-ts/inn1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YNL158W_pga1-ts	YNL158W	S000005102	PMID: 18439903	SGD_REF: S000126287	pga1-ts	heat sensitivity: increased
+Yeast_YNL163C_ria1-ts	YNL163C	S000005107	PMID: 25721128	SGD_REF: S000179429	ria1-ts	protein/peptide accumulation: decreased
+Yeast_YNL181W_ynl181w-ts	YNL181W	S000005125	PMID: 18439903	SGD_REF: S000126287	ynl181w-ts	heat sensitivity: increased
+Yeast_YNL182C_ipi3-td(temperature-inducibledegron)	YNL182C	S000005126	PMID: 22421151	SGD_REF: S000148858	ipi3-td (temperature-inducible degron)	chromosome/plasmid maintenance: abnormal
+Yeast_YNL189W_srp1-ts	YNL189W	S000005133	PMID: 18439903	SGD_REF: S000126287	srp1-ts	heat sensitivity: increased
+Yeast_YNL232W_csl4-ts	YNL232W	S000005176	PMID: 18439903	SGD_REF: S000126287	csl4-ts	heat sensitivity: increased
+Yeast_YNL244C_sui1-ts	YNL244C	S000005188	PMID: 18439903	SGD_REF: S000126287	sui1-ts	heat sensitivity: increased
+Yeast_YNL247W_ynl247w-ts	YNL247W	S000005191	PMID: 18439903	SGD_REF: S000126287	ynl247w-ts	heat sensitivity: increased
+Yeast_YNL251C_nrd1-102HA(temperature-sensitivenrd1allelewithasingle-amino-acidsubstitutioninRNArecognitionmotif)	YNL251C	S000005195	PMID: 22431520	SGD_REF: S000148832	nrd1-102HA (temperature-sensitive nrd1 allele with a single-amino-acid substitution in RNA recognition motif)	cell size: increased
+Yeast_YNL251C_nrd1-102HA(temperature-sensitivenrd1allelewithasingle-amino-acidsubstitutioninRNArecognitionmotif)	YNL251C	S000005195	PMID: 22431520	SGD_REF: S000148832	nrd1-102HA (temperature-sensitive nrd1 allele with a single-amino-acid substitution in RNA recognition motif)	vegetative growth: decreased
+Yeast_YNL251C_nrd1-102HA(temperature-sensitivenrd1allelewithasingle-amino-acidsubstitutioninRNArecognitionmotif)	YNL251C	S000005195	PMID: 22431520	SGD_REF: S000148832	nrd1-102HA (temperature-sensitive nrd1 allele with a single-amino-acid substitution in RNA recognition motif)	mitochondrial genome maintenance: abnormal
+Yeast_YNL258C_dsl1-DC30(tsallele)	YNL258C	S000005202	PMID: 23390603	SGD_REF: S000151997	dsl1-DC30 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL258C_dsl1-DC30(tsallele)	YNL258C	S000005202	PMID: 23390603	SGD_REF: S000151997	dsl1-DC30 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL260C_lto1-ts	YNL260C	S000005204	PMID: 18439903	SGD_REF: S000126287	lto1-ts	heat sensitivity: increased
+Yeast_YNL267W_pik1-139(tsallele)	YNL267W	S000005211	PMID: 23390603	SGD_REF: S000151997	pik1-139 (ts allele)	resistance to chemicals: decreased
+Yeast_YNL282W_pop3-ts	YNL282W	S000005226	PMID: 18439903	SGD_REF: S000126287	pop3-ts	heat sensitivity: increased
+Yeast_YNL310C_zim17-ts	YNL310C	S000005254	PMID: 18439903	SGD_REF: S000126287	zim17-ts	heat sensitivity: increased
+Yeast_YNL312W_rfa2-ts	YNL312W	S000005256	PMID: 21552543	SGD_REF: S000145356	rfa2-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YNL313C_emw1-ts	YNL313C	S000005257	PMID: 18439903	SGD_REF: S000126287	emw1-ts	heat sensitivity: increased
+Yeast_YNR017W_tim23-ts	YNR017W	S000005300	PMID: 18439903	SGD_REF: S000126287	tim23-ts	heat sensitivity: increased
+Yeast_YNR035C_arc35-6(tsallele)	YNR035C	S000005318	PMID: 23390603	SGD_REF: S000151997	arc35-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YNR038W_dbp6-ts	YNR038W	S000005321	PMID: 21552543	SGD_REF: S000145356	dbp6-ts	colony sectoring: increased
+Yeast_YNR038W_dbp6-ts	YNR038W	S000005321	PMID: 18439903	SGD_REF: S000126287	dbp6-ts	heat sensitivity: increased
+Yeast_YNR043W_mvd1-ts	YNR043W	S000005326	PMID: 18439903	SGD_REF: S000126287	mvd1-ts	heat sensitivity: increased
+Yeast_YNR043W_mvd1-1296(tsallele)	YNR043W	S000005326	PMID: 23390603	SGD_REF: S000151997	mvd1-1296 (ts allele)	resistance to chemicals: decreased
+Yeast_YOL021C_dis3-ts	YOL021C	S000005381	PMID: 21552543	SGD_REF: S000145356	dis3-ts	colony sectoring: increased
+Yeast_YOL021C_dis3-ts	YOL021C	S000005381	PMID: 18439903	SGD_REF: S000126287	dis3-ts	heat sensitivity: increased
+Yeast_YOL022C_tsr4-ts	YOL022C	S000005382	PMID: 18439903	SGD_REF: S000126287	tsr4-ts	heat sensitivity: increased
+Yeast_YOL022C_tsr4-ts	YOL022C	S000005382	PMID: 18439903	SGD_REF: S000126287	tsr4-ts	RNA accumulation: decreased
+Yeast_YOL038W_pre6-ts	YOL038W	S000005398	PMID: 20174551	SGD_REF: S000133286	pre6-ts	colony sectoring: increased
+Yeast_YOL038W_pre6-ts	YOL038W	S000005398	PMID: 20174551	SGD_REF: S000133286	pre6-ts	resistance to chemicals: decreased
+Yeast_YOL038W_pre6-ts	YOL038W	S000005398	PMID: 20174551	SGD_REF: S000133286	pre6-ts	resistance to chemicals: decreased
+Yeast_YOL038W_pre6-ts	YOL038W	S000005398	PMID: 18439903	SGD_REF: S000126287	pre6-ts	heat sensitivity: increased
+Yeast_YOL066C_rib2-ts	YOL066C	S000005427	PMID: 18439903	SGD_REF: S000126287	rib2-ts	heat sensitivity: increased
+Yeast_YOL069W_nuf2-ts	YOL069W	S000005430	PMID: 18439903	SGD_REF: S000126287	nuf2-ts	heat sensitivity: increased
+Yeast_YOL077C_brx1-ts	YOL077C	S000005437	PMID: 18439903	SGD_REF: S000126287	brx1-ts	heat sensitivity: increased
+Yeast_YOL144W_nop8-101(tsallele)	YOL144W	S000005504	PMID: 23390603	SGD_REF: S000151997	nop8-101 (ts allele)	resistance to chemicals: decreased
+Yeast_YOL144W_nop8-ts	YOL144W	S000005504	PMID: 18439903	SGD_REF: S000126287	nop8-ts	heat sensitivity: increased
+Yeast_YOL146W_psf3-ts	YOL146W	S000005506	PMID: 20174551	SGD_REF: S000133286	psf3-ts	colony sectoring: increased
+Yeast_YOL146W_psf3-ts	YOL146W	S000005506	PMID: 18439903	SGD_REF: S000126287	psf3-ts	heat sensitivity: increased
+Yeast_YOR004W_utp23-ts	YOR004W	S000005530	PMID: 18439903	SGD_REF: S000126287	utp23-ts	heat sensitivity: increased
+Yeast_YOR004W_utp23-ts	YOR004W	S000005530	PMID: 18439903	SGD_REF: S000126287	utp23-ts	RNA accumulation: decreased
+Yeast_YOR056C_nob1-ts	YOR056C	S000005582	PMID: 18439903	SGD_REF: S000126287	nob1-ts	heat sensitivity: increased
+Yeast_YOR060C_sld7-ts	YOR060C	S000005586	PMID: 21552543	SGD_REF: S000145356	sld7-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YOR060C_sld7-ts	YOR060C	S000005586	PMID: 21552543	SGD_REF: S000145356	sld7-ts	colony sectoring: increased
+Yeast_YOR060C_sld7-ts	YOR060C	S000005586	PMID: 18439903	SGD_REF: S000126287	sld7-ts	heat sensitivity: increased
+Yeast_YOR063W_rpl3-ts	YOR063W	S000005589	PMID: 18439903	SGD_REF: S000126287	rpl3-ts	heat sensitivity: increased
+Yeast_YOR103C_ost2-ts	YOR103C	S000005629	PMID: 18439903	SGD_REF: S000126287	ost2-ts	heat sensitivity: increased
+Yeast_YOR143C_thi80-ts	YOR143C	S000005669	PMID: 18439903	SGD_REF: S000126287	thi80-ts	heat sensitivity: increased
+Yeast_YOR160W_mtr10-ts	YOR160W	S000005686	PMID: 21552543	SGD_REF: S000145356	mtr10-ts	colony sectoring: increased
+Yeast_YOR160W_mtr10-ts	YOR160W	S000005686	PMID: 18439903	SGD_REF: S000126287	mtr10-ts	heat sensitivity: increased
+Yeast_YOR174W_med4-6(tsallele)	YOR174W	S000005700	PMID: 23390603	SGD_REF: S000151997	med4-6 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR181W_las17-13(tsallele)	YOR181W	S000005707	PMID: 23390603	SGD_REF: S000151997	las17-13 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR181W_las17-13(tsallele)	YOR181W	S000005707	PMID: 23390603	SGD_REF: S000151997	las17-13 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR194C_toa1-ts	YOR194C	S000005720	PMID: 18439903	SGD_REF: S000126287	toa1-ts	heat sensitivity: increased
+Yeast_YOR206W_noc2-ts	YOR206W	S000005732	PMID: 18439903	SGD_REF: S000126287	noc2-ts	heat sensitivity: increased
+Yeast_YOR224C_rpb8-ts	YOR224C	S000005750	PMID: 18439903	SGD_REF: S000126287	rpb8-ts	heat sensitivity: increased
+Yeast_YOR244W_esa1-1(temperaturesensitive)	YOR244W	S000005770	PMID: 22539722	SGD_REF: S000149758	esa1-1 (temperature sensitive)	autophagy: decreased
+Yeast_YOR244W_esa1-1851(tsallele)	YOR244W	S000005770	PMID: 23390603	SGD_REF: S000151997	esa1-1851 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR244W_esa1+A65-1851(tsallele)	YOR244W	S000005770	PMID: 23390603	SGD_REF: S000151997	esa1+A65-1851 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR244W_esa1-1(temperaturesensitive)	YOR244W	S000005770	PMID: 22539722	SGD_REF: S000149758	esa1-1 (temperature sensitive)	protein/peptide modification: decreased
+Yeast_YOR250C_clp1-ts	YOR250C	S000005776	PMID: 21552543	SGD_REF: S000145356	clp1-ts	colony sectoring: increased
+Yeast_YOR250C_clp1-ts	YOR250C	S000005776	PMID: 18439903	SGD_REF: S000126287	clp1-ts	heat sensitivity: increased
+Yeast_YOR257W_cdc31-2(tsallele)	YOR257W	S000005783	PMID: 23390603	SGD_REF: S000151997	cdc31-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR257W_cdc31-5(tsallele)	YOR257W	S000005783	PMID: 23390603	SGD_REF: S000151997	cdc31-5 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR260W_gcd1-ts	YOR260W	S000005786	PMID: 20174551	SGD_REF: S000133286	gcd1-ts	colony sectoring: increased
+Yeast_YOR262W_yor262w-ts	YOR262W	S000005788	PMID: 21552543	SGD_REF: S000145356	yor262w-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YOR262W_yor262w-ts	YOR262W	S000005788	PMID: 18439903	SGD_REF: S000126287	yor262w-ts	colony sectoring: increased
+Yeast_YOR262W_yor262w-ts	YOR262W	S000005788	PMID: 18439903	SGD_REF: S000126287	yor262w-ts	heat sensitivity: increased
+Yeast_YOR329C_scd5-D338(tsallele)	YOR329C	S000005856	PMID: 23390603	SGD_REF: S000151997	scd5-D338 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR329C_scd5-PP1D2(tsallele)	YOR329C	S000005856	PMID: 23390603	SGD_REF: S000151997	scd5-PP1D2 (ts allele)	resistance to chemicals: decreased
+Yeast_YOR336W_kre5-ts2	YOR336W	S000005863	PMID: 21552543	SGD_REF: S000145356	kre5-ts2	chromosome/plasmid maintenance: abnormal
+Yeast_YOR362C_pre10-ts	YOR362C	S000005889	PMID: 21552543	SGD_REF: S000145356	pre10-ts	colony sectoring: increased
+Yeast_YPL020C_ulp1-ts	YPL020C	S000005941	PMID: 10094048	SGD_REF: S000040761	ulp1-ts	protein/peptide accumulation: increased
+Yeast_YPL020C_ulp1-ts	YPL020C	S000005941	PMID: 10094048	SGD_REF: S000040761	ulp1-ts	cell cycle progression through the G2/M phase transition: arrested
+Yeast_YPL020C_ulp1-ts	YPL020C	S000005941	PMID: 10094048	SGD_REF: S000040761	ulp1-ts	heat sensitivity: increased
+Yeast_YPL063W_tim50-ts	YPL063W	S000005984	PMID: 18439903	SGD_REF: S000126287	tim50-ts	heat sensitivity: increased
+Yeast_YPL093W_nog1-1(tsallele)	YPL093W	S000006014	PMID: 23390603	SGD_REF: S000151997	nog1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YPL117C_idi1-ts	YPL117C	S000006038	PMID: 21552543	SGD_REF: S000145356	idi1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPL122C_tfb2-ts	YPL122C	S000006043	PMID: 18439903	SGD_REF: S000126287	tfb2-ts	heat sensitivity: increased
+Yeast_YPL124W_spc29-20(tsallele)	YPL124W	S000006045	PMID: 23390603	SGD_REF: S000151997	spc29-20 (ts allele)	resistance to chemicals: decreased
+Yeast_YPL128C_tbf1-ts	YPL128C	S000006049	PMID: 21552543	SGD_REF: S000145356	tbf1-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPL131W_rpl5-ts	YPL131W	S000006052	PMID: 18439903	SGD_REF: S000126287	rpl5-ts	heat sensitivity: increased
+Yeast_YPL151C_prp46-ts	YPL151C	S000006072	PMID: 18439903	SGD_REF: S000126287	prp46-ts	heat sensitivity: increased
+Yeast_YPL160W_cdc60-ts	YPL160W	S000006081	PMID: 21552543	SGD_REF: S000145356	cdc60-ts	colony sectoring: increased
+Yeast_YPL204W_hrr25-ts	YPL204W	S000006125	PMID: 18439903	SGD_REF: S000126287	hrr25-ts	heat sensitivity: increased
+Yeast_YPL209C_ipl1-1(tsallele)	YPL209C	S000006130	PMID: 23390603	SGD_REF: S000151997	ipl1-1 (ts allele)	resistance to chemicals: decreased
+Yeast_YPL235W_rvb2-ts	YPL235W	S000006156	PMID: 20174551	SGD_REF: S000133286	rvb2-ts	colony sectoring: increased
+Yeast_YPL235W_rvb2-ts	YPL235W	S000006156	PMID: 21552543	SGD_REF: S000145356	rvb2-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPL252C_yah1-ts(tsallele)	YPL252C	S000006173	PMID: 23390603	SGD_REF: S000151997	yah1-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YPL252C_yah1-ts(tsallele)	YPL252C	S000006173	PMID: 23390603	SGD_REF: S000151997	yah1-ts (ts allele)	resistance to chemicals: decreased
+Yeast_YPL255W_bbp1-2(tsallele)	YPL255W	S000006176	PMID: 23390603	SGD_REF: S000151997	bbp1-2 (ts allele)	resistance to chemicals: decreased
+Yeast_YPR016C_tif6-ts1	YPR016C	S000006220	PMID: 25721128	SGD_REF: S000179429	tif6-ts1	protein/peptide accumulation: decreased
+Yeast_YPR019W_mcm4-ts	YPR019W	S000006223	PMID: 21552543	SGD_REF: S000145356	mcm4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPR082C_dib1-ts	YPR082C	S000006286	PMID: 21552543	SGD_REF: S000145356	dib1-ts	colony sectoring: increased
+Yeast_YPR088C_srp54-ts	YPR088C	S000006292	PMID: 21552543	SGD_REF: S000145356	srp54-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPR110C_rpc40-ts4	YPR110C	S000006314	PMID: 3815519	SGD_REF: S000132913	rpc40-ts4	protein/peptide accumulation: decreased
+Yeast_YPR110C_rpc40-ts4	YPR110C	S000006314	PMID: 3815519	SGD_REF: S000132913	rpc40-ts4	heat sensitivity: increased
+Yeast_YPR133C_spn1-ts	YPR133C	S000006337	PMID: 21552543	SGD_REF: S000145356	spn1-ts	colony sectoring: increased
+Yeast_YPR162C_orc4-ts	YPR162C	S000006366	PMID: 21552543	SGD_REF: S000145356	orc4-ts	chromosome/plasmid maintenance: abnormal
+Yeast_YPR169W_jip5-ts	YPR169W	S000006373	PMID: 18439903	SGD_REF: S000126287	jip5-ts	heat sensitivity: increased
+Yeast_YPR181C_sec23-ts	YPR181C	S000006385	PMID: 16581797	SGD_REF: S000114880	sec23-ts	protein/peptide distribution: abnormal
